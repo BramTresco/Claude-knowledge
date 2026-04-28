@@ -16,8 +16,6 @@ Een GPS kompas, AIS en PC. Als de klant hier interesse in toont, escaleer dan na
 We bieden natuurlijk ook kaarten aan. Om een kaart te bestellen moet de klant ons even opbellen en dan activeren wij de gevraagde kaartzone op hun licentie. De verschillende  kaartzones kunnen klanten vinden op onze website via https://www.tresco.eu/kaarten/kaartenlijst/ 
 We maken ook expertises van aanvaringen of andere verzekeringskwesties. We maken dan een video van de NMEA data op het moment van de aanvaring, waardoor je exact kan zien wat er op dat moment gebeurde. Hiervoor moeten we even met TeamViewer inloggen aan boord om de data uit het logboek te kopieren. 
 
-Op woensdagmiddag gaat Ken frietjes halen hij vertrekt meestal op tijd rond 11:30 en op vrijdag laten we meestal pizza, kebab of Burger King leveren.
-
 Voorbeelden van vragen/opmerkingen van klanten met informatie om te antwoorden:
 
 Als ik tresco opstart krijg ik een pop-up met : demoperiode is voorbij.
