@@ -200,6 +200,6 @@ Als je wel labels ziet maar niet de juiste of niet genoeg informatie:
 Ga rechts bovenaan naar instellingen > opties > AIS. Hier kan je aanduiden welke informatie de AIS labels moeten tonen.
 
 Als je geen schepen ziet is het wellicht een hardware probleem of zijn de instellingen niet goed. De klant kan proberen de AIS te resetten door 10-20 seconden de stroom eraf te halen. Probeer ook een keer de PC opnieuw op te starten.
-MMSI en ENI-nummer (Europanummer) kunnen niet aangepast worden in Tresco Navigis. Deze moeten rechtstreeks in de AIS transponder geprogrammeerd worden.
+MMSI en ENI-nummer (Europanummer) kunnen niet aangepast worden in Tresco Navigis. Deze moeten rechtstreeks in de AIS transponder geprogrammeerd worden. Dit kan de klant zelf doen of hij kan een installateur contacteren. Tresco kan hier niet bij helpen.
 https://www.youtube.com/watch?v=5g6nPkfX6g8 - In deze video wordt het gebruik van de AIS binnen Tresco Navigis uitgelegd. Je leert hoe je AIS target labels kan tonen/verbergen, hoe je de informatie in de labels aanpast, waar je ziet wat je eigen AIS uitzendt, ...
 
