@@ -66,6 +66,7 @@ https://www.youtube.com/watch?v=BN_7PJJcMeY - In deze video worden een aantal ti
 
 Kan het beeld niet meer schuiven. Hoe kaart verplaatsen?
 Als men de kaart wil verschuiven ga je bovenaan in de knoppenbalk naar 'Scherm'. Daar klik je op 'Zoom in', 'Zoom uit' of 'Ga naar ...', daarna kan de kaart opnieuw verschoven worden met de muis.
+Om het schip te centreren in de kaart druk je bovenaan links op 'Monitor'.
 https://www.youtube.com/watch?v=BN_7PJJcMeY - In deze video worden een aantal Tresco Navigis functionaliteiten uitgelegd zoals bijvoorbeeld de kaart verschuiven.
 
 Muis verspringt vanzelf. Muis gaat alle kanten op. Kan muis niet gebruiken.
