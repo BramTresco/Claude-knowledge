@@ -33,6 +33,7 @@ SNELSTART (Downloaden en installeren)
 - Problemen bij het opstarten van de software
 - Inloggen, accounts aanmaken, wachtwoord vergeten
 - USB-dongles of hardwarematige licentiebeveiliging
+- ENC kaartzones toevoegen
 
 TRACKPILOT (Autonoom varen)
 - Vragen over Trackpilot, de software voor autonoom varen
