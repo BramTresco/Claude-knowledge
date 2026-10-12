@@ -116,3 +116,58 @@ Ga rechtsboven naar Instellingen > Opties... > Online update.
 Klik dan het vakje aan 'Updates automatisch op de achtergrond downloaden'
 https://www.youtube.com/watch?v=_wWWIQloabI - In deze video wordt getoond hoe je (automatisch) kan updaten.
 
+**Installatie ENC-charts :  **
+ 
+**Primar, AVCS (UKHO) **
+ 
+ 
+ 
+**Stap 1: Installatie user-permits**
+ 
+Om de S57 data, beschikbaar gesteld door IC-ENC - Primar Stavanger of AVCS, te kunnen gebruiken moet u eerst de nodige kaartvergunningen installeren. 
+ 
+De nieuwe vergunningen worden aan het systeem toegevoegd. Oude vergunningen worden, indien nodig, vervangen. 
+ 
+**Ga naar **Kaart/S57/Installeer vergunning
+ 
+Selecteer het bestand
+ 
+‘**PERMIT.TXT**’ en klik op ‘Openen’. Hierna moet de vermelding verschijnen:
+ 
+“Installatie voltooid”
+ 
+**Stap 2: installatie van kaarten (base CD)**
+ 
+**Ga naar** Kaart/S57/Installeer dataset
+ 
+**Klik** op ENC_ROOT en hierna** **op openen
+ 
+**Klik** op CATALOG.031 en hierna op openen
+ 
+Navigis leest het catalogus bestand en toont de lijst van kaarten die geïnstalleerd kunnen worden. 
+ 
+Standaard worden alle kaarten, waarvoor u een vergunning heeft, geselecteerd.
+ 
+**Klik** op “Installeren”. 
+ 
+Na de installatie toont NaviChart hoeveel cellen er correct geïnstalleerd zijn.
+ 
+**Klik** op “OK”
+ 
+Indien er kaarten niet of fout geïnstalleerd zijn wordt er een foutrapport aangemaakt.
+ 
+ 	*** ***
+ 
+# Overzicht kaartzones en installatie Base/update cd’s 
+ 
+ 
+ 
+Ga naar Kaart/s57/Permit overzicht 
+ 
+Hier staat een overzicht van de geïnstalleerde kaarten en wanneer ze vervallen. 
+ 
+ 
+ 
+ 
+ 
+Via Kaart/s57/Installatie log staat een overzicht welke base en update cd's er geïnstalleerd zijn. 
