@@ -1,0 +1,1519 @@
+AIS
+
+Inleiding
+Dankzij het Automatic Identification System (AIS) heeft u op uw navigatiekaart een overzicht van alle schepen in de buurt (het bereik van AIS is mits alles in orde 20 à 30 km). Zelfs diegene die om de hoek varen. Met een simpele muisklik (her)kent u de naam, positie, koers, snelheid, type schip, lading, enzovoort. Meer zelfs, als u over een AIS-transponder beschikt, kunt u snel berichten uitwisselen met de buren van dat moment. 
+
+AIS is vanuit het oogpunt van veiligheid zeker een meerwaarde voor de scheepvaart op rivieren en zeeën. Ander voordeel is het beter afstemmen van brugopeningen op het weg- en vaarverkeer. 
+ 
+AIS
+Via de optie AIS kan u een AIS toestel aansluiten op uw Tresco Navigis systeem. Er zijn twee soorten AIS systemen:
+
+•	AIS Reciever: enkel ontvangen van andere AIS targets.
+•	AIS Transponder: ontvangen van andere AIS targets en verzenden van eigen data (Verplicht in de binnenvaart vanaf 1 januari 2012 en vanaf 1 maart 2011 in de haven van Antwerpen) 
+
+Inmiddels is de AIS Transponder verplicht in de binnenvaart. In Oostenrijk is het nu al mogelijk om tevens de waterstanden automatisch via uw AIS-transponder te ontvangen. De bedoeling is dat Duitsland en Nederland deze gratis dienstverlening ook gaan aanbieden.  
+
+Via de AIS Transponder ziet u andere schepen in de buurt en u tegelijkertijd stuurt uw gegevens naar andere schepen.
+
+De AIS-optie kan telefonisch worden geactiveerd en werkt met alle courante Inland ECDIS AIS-transponders. Vanuit Tresco kunt u via de ”AIS reisinstellingen…” meteen de AIS-transponder instellen (bestemming, lading, enz.….).
+
+Instellingen AIS
+Voor de goede werking en programmatie van de AIS transponder is het heel belangrijk dat het juiste type van AIS transponder ingesteld is. Deze instellingen worden beschreven in de installatie handleiding. Door de verplichting van de AIS transponders in de binnenvaart, zal enkel een gecertificeerde installateur de AIS transponders mogen installeren! Tresco beschikt over gecertificeerde installateurs.
+
+Weergave AIS targets op de kaart:
+Een AIS target op de Tresco kaart bestaat uit 2 onderdelen:
+
+•	Een symbool, dat het schip weergeeft.
+o	AIS target zonder voorligging
+o	AIS target met voorligging
+•	Een label met informatie over het schip. Met oa Blauwbord status, Naam, ENI nr, Koers, Snelheid, Afmetingen en Diepgang
+   
+Het AIS symbool
+
+Afhankelijk van de beschikbare gegevens worden de AIS target in Navigis via verschillende symbolen getoond.
+
+Achthoek:
+AIS target waarbij de voorligging van het schip niet gekend is.
+Schip op schaal:
+AIS target waarvan de voorligging en afmetingen bekend zijn. 
+Driehoek:
+AIS target waarvan de voorligging bekend is, maar te klein is om in te tekenen. De driehoek is gedraaid volgens de voorligging van het schip.
+
+AIS Labels
+Elke AIS target bevat ook een label, dit label kan de volgende informatie bevatten.
+Blauwbord status, Naam, ENI nr, Koers, Snelheid, Afmetingen van het schip en de diepgang. Deze opties kan men instellen via: instellingen / opties / AIS.
+De grootte van de AIS-labels kan worden aangepast bij instellingen / opties / scherm.
+Hier kan je tekst, symbolen of AIS-labels vergroten door de slider naar rechts te schuiven.
+
+Label filter
+
+Op plaatsen met veel AIS targets, bv in een haven, kan het beeldscherm onoverzichtelijk worden. Met het label filter kan men instellen wanneer en hoe een AIS label wordt getoond op de kaart. De target filter kan men rechtsboven  instellen via instellingen / opties / AIS.
+
+
+Target filter
+Toon labels enkel tot een specifieke schaal:	Vanaf men boven de ingestelde schaal uitzoomt, worden de AIS labels niet meer getoond.
+Teken enkel op schaal tot specifieke schaal:	Vanaf men boven de ingestelde schaal uitzoomt worden de AIS targets verkleint weergegeven.
+Toon labels enkel binnen specifieke afstand:	Toont de AIS labels binnen de ingegeven afstand. Deze afstand wordt gemeten vanaf het eigen schip.
+Toon enkel labels van bewegende targets:	Toont de AIS labels van bewegende AIS targets (snelheid).
+
+AIS-Targetkleuren
+
+Om overzicht te houden over het soort schepen is het mogelijk om elke type schip een eigen kleur te geven.
+Via instellingen / opties / AIS is het mogelijk om de kleuren te veranderen. 
+
+De schepen kunnen allemaal één kleur krijgen.
+
+•	ECDIS groen
+•	ECDIS blauw
+•	Kies zelf een kleur 
+(zwart is in dit geval aan te raden)
+
+AIS functiebalk
+De AIS functiebalk bevat 4 belangrijk functies
+
+•	Functieknoppen van de AIS optie.
+•	Het toont de huidige status van de AIS transponder.
+•	Via de functiebalk kan men de AIS transponder programmeren.
+•	AIS berichten.
+
+Toon AIS overzicht	Toont het volledige AIS overzicht.
+Scherm toetsenbord	Toont een schermtoetsenbord op de kaart van Tresco, hiermee kan je dan de Transponder programmeren.
+AIS labels aan / uit	Schakelt de AIS labels op de kaart aan of uit
+Filters aan / uit 	Schakelt de AIS filters aan of uit.
+Blauw bord	Toont of het blauwbord in de AIS transponder is geactiveerd of niet.
+Navigatie status	Hier kan men eenvoudig de navigatie status van het schip bekijken en / of invoeren.
+Reisbestemming	Hier kan men eenvoudig de reisbestemming van het schip invoeren. De reeds ingevoerde bestemmingen worden bijgehouden in een historiek. De ingevoerde reis moet steeds worden bevestigd met de “enter” knop
+Verwachte tijd van aankomst	Hier kan men de verwachte tijd van aankomst invoeren, bevestigen met “enter” knop
+Reisplanning	Hier kan men extra gegevens invoeren van de reisplanning
+“enter” toets	Druk op deze knop om de instellingen te programmeren in de AIS transponder.
+AIS mailbox	Opent AIS mailbox, overzicht van de ontvangen en verzonden berichten via de AIS transponder
+
+Navigatie status
+Toont de huidige “Navigatie status” van de geprogrammeerde AIS transponder. Er zijn verschillende statussen instelbaar:
+
+•	Op weg op de motor
+•	Voor anker
+•	Niet onder commando
+•	Beperkte manoeuvreerbaarheid
+•	Aangelegd
+•	Aan de grond
+•	Bezig te vissen
+•	Op weg onder zeil
+
+De navigatiestatus zal automatisch veranderen van “aangelegd” naar “op weg op de motor”  als de GPS antenne snelheid detecteert. De status van “op weg op motor” naar “aangelegd” moet manueel worden ingesteld door op de zwarte pijl te klikken en een status aan te duiden.
+
+Reis data
+De AIS functiebalk toont de belangrijkste “reis data” van de geprogrammeerde AIS transponder: Bestemming & ETA. Deze zijn aanpasbaar via de AIS functiebalk. Tresco onthoud de reeds geprogrammeerde bestemmingen uit het verleden. Reisinstellingen moeten steeds bevestigd worden met de “enter” knop
+ 
+AIS reisinstellingen
+De belangrijkste AIS reisgegevens kan men rechtstreeks programmeren in de AIS functie balk. Extra reisgegevens kan men oproepen en programmeren via de knop “Reisplanning” in de AIS functiebalk.
+
+Reisinstellingen (dezelfde als in de AIS status balk)
+Bestemming	Hier kan men de bestemming van het schip ingeven
+ETA	Datum en uur van aankomst
+
+Lading
+Lading / schip instellingen	Hier kan men de lading van het schip ingeven
+Aantal kegels	Aanduiding van het aantal kegels (gevaarlijke stoffen)
+Lading status	Geladen / niet geladen
+Diepgang	Diepgang van het schip
+Doorvaarhoogte	Hoogte van het schip boven de waterlijn
+	
+Personeel / sleep instellingen
+Aantal personeel	Personeel aan boord
+Aantal scheepspersoneel	Scheepspersoneel aan boord
+Aantal passagiers	Passagiers aan boord
+Personen aan boord	Wordt  automatisch aangepast door de 3 bovenste velden
+Aantal sleepboten	Aantal sleepboten in assistentie
+Nadat er op “OK” is geklikt worden deze instellingen in de AIS transponder geprogrammeerd. 
+Duwkonvooi
+Mogelijkheid tot het ingeven / programmeren van de AIS transponder met duwkonvooi configuratie. De overheidsinstanties gaat meer controle  uitvoeren op correct geprogrammeerde AIS transponders: Status, ETA, Duwkonvooi. Hierdoor wordt dit onderdeel zeer belangrijk in de toekomst !
+
+Men kan de duwkonvooi configuratie opstarten via instellingen / duwkonvooi
+
+Configureren nieuwe bak:
+Via “Nieuw bak aanmaken” kan men een nieuwe bak toevoegen aan de database. Nadien is het zeer eenvoudig om de juiste bak aan de duwkonvooi toe te voegen.
+
+Klik op “OK” om de configuratie te bevestigen
+
+Configureren duwkonvooi:
+Activeer “gebruik duwverband-configuratie” en kies het aantal bakken.
+Het aantal bakken zal in de lijst verschijnen. Hierna kan men zeer eenvoudig de juiste bak activeren door op de “zwarte pijltjes” de juiste bak te kiezen: weergave van naam, grootte en ENI nr in lijst
+
+
+De duwconfiguratie kan men zeer eenvoudig aanpassen door de bakken te “verslepen”.
+Automatisch wordt ook lengte / breedte van configuratie aangepast en geprogrammeerd in AIS transponder!
+
+	
+De configuratie wordt tevens gevisualiseerd in Tresco
+
+
+AIS berichten
+Via een AIS transponder kan men ook berichten versturen. Ontvangt uw transponder een bericht dan wordt dit weergegeven in de AIS functiebalk.
+
+Klik op de “omslag” en de AIS mailbox verschijnt
+
+ 
+AIS targets in instrumentenpaneel.
+In het instrumentenpaneel rechts worden de eerste 10 AIS targets die het dichtste bij uw schip zijn gelegen getoond en het totaal aantal targets in uw bereik.
+Als u eenmaal klikt op een ander schip in de lijst dan krijgt u de afstand te zien tot uw schip en de koers.
+
+Dubbelklikt u op een ander schip dan wordt het AIS overzicht geopend met de details over het schip.
+
+Klikt men met de ‘i’ knop op een AIS target dan wordt de belangrijkste informatie naast het AIS target getoond. 
+Gedetailleerd AIS – overzicht
+Het gedetailleerde AIS – overzicht toont een overzichtslijst van alle AIS targets die de transponder ontvangt. Men kan deze lijst oproepen door op de knop “AIS overzicht”  in de AIS functiebalk te klikken.
+
+Deze lijst kan men rangschikken via MMSI / Naam / Afstand , door op 1 van deze groepen te klikken. Door een AIS target aan te klikken krijgt u specifieke informatie van het AIS target.
+
+
+Scheepsinfo	Algemene info van AIS target.
+Reisinfo	Reisgerelateerde info van AIS targets.
+Centreer target	Zal het aangeduide AIS target centreren op de kaart.
+Broadcast bericht	Zend een tekst bericht naar een aangeduid AIS target
+Sluiten	Sluit AIS venster.
+ 
+ 
+Extra functies op AIS target
+
+U kan op een AIS target van een ander schip, een aantal specifieke functies activeren door met de rechter muisknop op het AIS target te klikken.
+
+
+Positiefix	Registreert positie van AIS target.
+Event	Registreert positie van AIS target, met mogelijkheid voor het toevoegen van een opmerking.
+Schip volgen	Het systeem genereert een track op basis van AIS-gegevens, zodat u deze kunt gebruiken met de Tresco TrackPilot.
+Start track / Stop track	Tracken van het AIS target, en tevens het stoppen hiervan.
+Bericht sturen	Verzenden van een bericht naar het AIS target.
+
+Positiefix en event zijn aantekeningen en worden  onder de aantekeningen bewaard. Bij het afsluiten van Tresco zal u gevraagd worden of u een gemaakte track of aantekening wilt opslaan.
+
+
+Voorbeelden van vragen of opmerkingen van klanten: 
+
+Ik zie geen ais. Ais is kapot. Geen ais labels. Ik zie andere schepen niet. Mijn AIS doet het niet meer.
+Gebruik voor deze vragen volgende informatie:
+Heeft het voordien wel gewerkt? Of is het een nieuwe installatie?
+Bij een nieuwe installatie moet men Tresco contacteren om de instellingen te overlopen.
+Als je wel schepen kan zien maar geen labels:
+Onderaan het scherm heb je de AIS-balk. Check dat links het knopje 'Toon/verberg target teksten' aan staat.
+Als je wel labels ziet maar niet de juiste of niet genoeg informatie:
+Ga rechts bovenaan naar instellingen > opties > AIS. Hier kan je aanduiden welke informatie de AIS labels moeten tonen.
+
+Als je geen schepen ziet is het wellicht een hardware probleem of zijn de instellingen niet goed. De klant kan proberen de AIS te resetten door 10-20 seconden de stroom eraf te halen. Probeer ook een keer de PC opnieuw op te starten.
+MMSI en ENI-nummer (Europanummer) kunnen niet aangepast worden in Tresco Navigis. Deze moeten rechtstreeks in de AIS transponder geprogrammeerd worden. Dit kan de klant zelf doen of hij kan een installateur contacteren. Tresco kan hier niet bij helpen.
+https://www.youtube.com/watch?v=5g6nPkfX6g8 - In deze video wordt het gebruik van de AIS binnen Tresco Navigis uitgelegd. Je leert hoe je AIS target labels kan tonen/verbergen, hoe je de informatie in de labels aanpast, waar je ziet wat je eigen AIS uitzendt, ...
+
+E-Melden  
+
+Inleiding 
+ 
+Tresco E-Melden is een optie die ervoor zorgt dat reizen snel en eenvoudig elektronisch (online) kunnen aangemeld worden. Wenst de klant gebruik te maken van Tresco E-Melden, moet hij de volgende zaken tot zijn beschikking hebben. 
+•	Tresco Navigis 
+•	Optie Reisplan 
+•	Optie E-Melden 
+•	Meest recente BICS software 
+•	Internetverbinding 
+
+Tresco Reisplan 
+Basis voor het Tresco E-melden is het Tresco Reisplan. U dient dus eerst een Tresco Reisplan aan te maken alvorens u de Tresco E-melden kan aanmaken. 
+
+Elektronisch melden-manager 
+Dit venster geeft een overzicht van de reeds gemaakte, de huidige en eventueel reeds geplande reizen. Vanuit dit venster kan je ook nieuwe reizen aanmaken, standaardinstellingen voor de reis aanpassen en het adresboek beheren. Ga naar Reisplan / Elektronisch melden (BICS).  
+ 
+Of klik op de BICS knop in de Reisplan knoppenbalk.  
+ 
+Dit venster geeft een overzicht van: 
+•	Gemaakte reizen: 	Arrived 
+•	Huidige reis: 	 	Navigating 
+•	Geplande reis:  	Planned 
+Tevens bevat dit venster: 
+•	Knop Nieuwe reis 
+•	Knop Standaardinstellingen 
+•	Knop Adresboek 
+•	Knoppen per reis: Aanmelden, Wijzigen en Verwijderen 
+ 
+Nieuwe reis 
+Via “Nieuwe reis” kunt u een reeds geplande reis van uit het reisplan importeren in uw BICS aanmelding. Hier zal later in de handleiding op terug gekomen worden. 
+                                
+
+Standaardinstellingen 
+Deze statische instellingen zullen steeds gebruikt worden bij het aanmelden van iedere reis. Uiteraard zijn deze instellingen manueel te wijzigen. 
+  
+ 
+De standaard instellingen: 
+•	Standaard vaarregime: 
+o A1 – Maximum 14 uur 
+o A2 – Maximum 18 uur 
+o   B – Maximum 24 uur 
+•	Standaard transporttype: type schip 
+o Bulk 
+o Container 
+o Tanker 
+•	Standaard goederentype 
+o Niet-gevaarlijk 
+o Gevaarlijk 
+•	Standaard sync bij start reis 
+o Reisplanner 
+o AIS 
+Opgelet, als je het transport type aanpast, zal dit ook automatisch worden aangepast in de AIS transponder. De transponder zal deze info ook uitzenden naar andere schepen en autoriteiten! 
+ 
+Adresboek 
+Als er afspraken zijn dat bijvoorbeeld havengelden voor rekening van de bevrachter of opdrachtgever komen, kunt u dit invoeren via “Standaard factuuradres” (zie stap 1), dat gekoppeld is aan het adresboek.   
+ 
+Adresboek kan volgende gegevens bijhouden: 
+•	Firma / Bedrijf  
+•	Agent 
+•	Adres 
+•	Contact gegevens (Mail, Mobielnr. & Telefoonnr) 
+•	BTW-nummer 
+Om een nieuw ID aan het adresboek toe te voegen druk op “Nieuw toevoegen”. Hier kunt u alle nodige gegevens ingeven.   
+ 
+ 
+Nieuwe reis aanmaken in Tresco E-melden 
+Het Tresco E-melden omvat zeer veel en gespecialiseerde gegevensvelden. Momenteel is het nog niet verplicht om al deze velden in te geven voor de BICS registratie. De verplichte velden worden gemarkeerd door *. 
+
+ 
+Het Tresco Trajectplan bestaat uit 4 stappen: 
+•	Stap 1 - Reis 
+•	Stap 2 - Vaareenheden (Convoi) en lading 
+•	Stap 3 - Afwerken 
+•	Stap 4 - Aanmelden 
+Tresco Reisplan 
+Zoals eerder vermeld, vormt het Tresco Reisplan de basis voor het Tresco E-melden. U dient eerst het Tresco Reisplan aan te maken voordat u de Tresco E-melden kunt gebruiken. Dit Tresco Reisplan kan tevens worden gebruikt voor de EBIS-reisvoorbereiding (Reisrapportage). Raadpleeg de handleiding van het Tresco Reisplan voor instructies over het aanmaken van een reisplan in Tresco Navigis. 
+ 
+Ingeven nieuwe reis 
+Open het “Elektronisch melden-manager” venster via Reisplan / Electronisch aanmelden (BICS) of klik op de functie knop in de tab “Reisplan” van de knoppenbalk.
+  
+ 
+Klik op “Nieuwe reis” om een nieuwe reis in te geven 
+ 
+ 
+Stap 1 - Reis 
+Dit venster biedt een overzicht van de reis (Reisplan), het vaarregime, de werkdagen en het factuuradres. Deze instellingen zijn standaard, waardoor er in dit venster in principe niets hoeft te worden aangepast. 
+ 
+Standaard: 
+•	Reisgegevens: ingegeven via Tresco Reisplan 
+•	Factuuradres: ingegeven via bv adresboek 
+•	Aantal personen aan boord 
+Geavanceerd 
+•	Vaarregime 	:  	Zie standaardinstelling 
+•	Werkdagen 	:  	Zie instellingen Reisplan 
+Klik op “volgende” om naar het volgende gegevens venster te gaan 
+ 
+ 
+Stap 2 - Vaareenheden (Convoi) en lading 
+Dit is het belangrijkste venster van het Tresco E-melden, hierin kan men een “Lading” ingegeven: 
+  
+ 
+Transporttype, Scheeps-ENI, Huidige diepgang worden overgenomen uit AIS transponder. Indien men deze gegevens aanpast, zullen deze automatisch worden aangepast in AIS transponder en worden uitgezonden door AIS transponder naar andere schepen! 
+ 
+Zending toevoegen: 
+ 
+Klik op “+” om de lading te configureren: 
+
+ 
+Cargo configureren: 
+  
+ 
+Transport type / Schip: overgenomen vanuit standaard instellingen Tresco en AIS transponder 
+ 
+Lading: verplicht in te vullen! 
+ 
+Klik op <Selecteer cargo-type…> keuze venster met alle soorten ladingen verschijnt. Via de zoekfilter kan men de juiste lading eenvoudig zoeken. Indien men veel dezelfde lading vervoert is het handig om deze “als favoriet” toe te voegen.  
+ 
+Klik op “ok” om te bevestigen 
+Hierna kan men nog het gewicht en eventueel volume ingeven 
+ 
+Niet verplicht via “Toon optionele velden”: 
+•	Volume (m3) 
+•	Aanvullende omschrijving 
+•	Binnenverpakking 
+•	Aantal 
+•	Douanestatus 
+•	Informatie over douanedocumenten 
+Klik op “OK” om te bevestigen 
+
+
+Step 3 - Afwerken 
+ 
+De laatste stap van Tresco E-melden is het afwerken. 
+ 
+Voer het eerste meldpunt in. Kies hiervoor het punt dat het dichtst bij het vertrek van de reis ligt 
+ 
+Blauwe kegels: 
+ 
+Indien men dit invult zal de AIS transponder automatisch worden aangepast. 
+ 
+•	Sync reisplanner 
+•	Sync AIS 
+ 
+Klik vervolgens op "Afwerken" om Tresco E-melden af te ronden. De reis is nu aangemaakt in Tresco E-melden, maar nog niet geregistreerd bij BICS! 
+ 
+Step 4 - Aanmelden 
+Om de reis daadwerkelijk aan te melden en door te sturen naar BICS, klikt u op "Aanmelden"  
+U kunt de reis definitief accepteren en naar BICS doorsturen door op "Verzenden" te klikken 
+  
+Extra instellingen 
+Extra instellingen kunnen gevonden worden in Instellingen/Systeem…/Elektronisch melden. 
+Deze instellingen moeten correct worden uitgevoerd om naar behoren te functioneren. Normaal gesproken zijn ze standaard goed ingesteld. U kunt de verbinding testen met de optie “Test deze instellingen”. Als er problemen optreden, neem dan contact op met Tresco. 
+ 
+TRESCO PRIJSLIJST
+Datum: 20/03/2026
+
+De AIS optie is verplicht op systemen aan boord (niet op kantoor)
+
+=== NAVIGIS VIEWER ===
+Navigis River basispakket 24.x: €995
+Tresco Navigis Coaster 24.x (incl. 2e GPS optie + STD Kaartzone): €1.900
+Navigis Visserij / Survey 24.x (incl. 2e GPS optie + STD Kaartzone): €2.500
+Vervangsleutel (licentie-dongle): €200
+
+=== NAVIGIS OPTIES ===
+Heading-input 2e GPS: €375
+AIS-input: €395
+Reisplan (route planner): €300
+Reisrapportage (Pre-Departure checklist): €240
+E-melden (BICS): €250
+Dual-Head (2e Display): €500
+
+=== KAARTZONES ===
+
+Als de klant een kaart wil downloaden/installeren/kopen vraag dan naar de naam van het schip en welke
+kaart hij wil. Als hij niet weet welke kaart vraag dan waar hij naartoe wil. Daarna zeg je dat een
+menselijke collega het verder zal overnemen.
+
+Standaardkaartzone NL/BE (STD): €295
+Nederland Zuid (NL-Z): €195
+Nederland West (NL-W): €195
+Nederland Oost (NL-O): €195
+Nederland Noord (NL-N): €195
+België West (BE-W): €195
+België Oost (BE-O): €195
+Frankrijk Noord (FR-N): €195
+Frankrijk Midden (FR-M): €150
+Frankrijk Garonne - Gironde (FR-G): €295
+Frankrijk Rhone - Saone (FR-R): €295
+Frankrijk Seine (Aval) (FR-S): €220
+Rijn (WSD) (RIJN1): €495
+Boven Rijn (RIJN2): €195
+Neckar (NECK): €195
+Duitsland Noord West (D-NW): €295
+Bremen (D-BRE): €195
+Hamburg (D-HAM): €195
+Elbe (ELBE): €300
+Berlijn (D-BER): €295
+Moezel - Saar (MOEZ): €200
+Main (WSD) (MAIN): €200
+Main - Donaukanaal (WSD) (MDK): €110
+Oder (ODER): €200
+Donau Duitsland (WSD) (DON-D): €110
+Donau Oostenrijk (DON-O): €195
+Donau Hongarije / Slovakije (DON-H): €295
+Donau Kroatië - Servië (DON-S): €295
+Donau Roemenië / Bulgarije (DON-R): €295
+Donau monding Zwarte Zee (DON-Z): €175
+Belgische kust (KU-BE): €195
+Nederlandse kust (KU-NL): €195
+Waddenzee (WAD): €340
+Po (PO): €200
+Douro (DOURO): €125
+
+=== SUPPORT & ONDERHOUD ===
+1 jaar supportcontract River: €690
+1 jaar supportcontract Survey: €750
+1 jaar supportcontract Visserij: €750
+
+=== TRESCO TRACKPILOT ===
+TTP incl. smart tracks 1 jaar: €2.500
+TTP interface voor EBF-piloot: €2.000
+TTP upgrade RZ piloot: €995
+
+=== KAARTEN VOOR RADARS ===
+Activatie kaarten voor RadarPilot720: €500
+Activatie kaarten voor Swiss radar: €500
+
+=== UPGRADES ===
+Navigis naar RadarLink: €2.750
+RadarOverlay naar Radarlink: €1.375
+
+=== APPARATUUR ===
+
+-- Antennes GPS kompas --
+Furuno SCX-21 (No Wheelmark) (incl. optie Heading & SER adapter): €2.100
+Furuno SC-70 (Wheelmark) (incl. optie Heading & SER adapter): €3.995
+JRC JLR-21: €3.995
+Petrand beugel: €75
+
+-- Antennes --
+AIS Combi-Antenne (incl. VHF-GPS incl. Diplexer): €299
+AIS Combi-Antenne (incl. VHF-GPS excl. Diplexer): €199
+GPS-antenne ('paddenstoel'): €500
+
+-- AIS --
+Em-Track A200 AIS class A (incl. GPS & inbouwverklaring): €2.500
+
+-- PC-hardware --
+Tresco Certified TTP PC: €2.750
+LCD scherm 19" roteerbaar (EIZO): €320
+Keyboard + muis (draadloos): €60
+
+-- Overige hardware --
+USB-converter (RS-232): €50
+USB-converter Actisense: €145
+
+Reisplan  
+ 
+Reis plannen 
+Een reis bestaat uit een vertrek- en eindpunt, deze punten kan men op 3 manieren ingeven in Tresco Navigis: 
+ 
+•	start- en eindpunt op de kaart aanduiden 
+•	start- en eindpunt selecteren uit een keuzelijst.  
+•	Via reeds bewaarde reis  
+  
+Eventueel kunnen er ook nog tussenpunten of "via's" ingevoegd worden op de berekende reis. 
+Rechtstreeks op de kaart aanduiden    
+ 
+Via de groene en geblokte vlaggetjes kan met een start en eindpunt rechtstreeks op de kaart kiezen. Hierdoor heeft men direct een overzicht van hoe de route wordt berekend en verloopt op de kaart. Gebruik het gele vlaggetje om een via aan te duiden, dit is een afwijkend punt op de berekende route. 
+ 
+Let op: als dit tabblad is geselecteerd kunt u niet slepen met de kaart. Gebruik hiervoor de knop met het rode puntje met 2 zwarte cirkels rond
+ 
+Groene vlag: Instellen van startpunt route door op een punt te klikken in de kaart
+Gele vlag: Instellen van "Via" in de route door op een punt te klikken in de kaart
+Zwarte vlag: Instellen van eindpunt route door op een punt te klikken in de kaart
+
+Via een keuzelijst 
+ 
+Indien men ook gebruik maakt van eMelden (BICS registratie), is deze methode handiger. Ook verkrijgt men direct een overzicht van de reistijd, afstand enz. 
+ 
+Klik in het menu op Reisplan/Reis plannen of in de knoppenbalk op het Reisplan icoon. Het venster “Selecteer vertrekplaats” wordt automatisch geopend. 
+ 
+Mogelijkheid om op 2 soorten locaties te kiezen: 
+ 
+•	Kaartlocaties: locaties uit de Tresco kaartdatabase, hoofdzakelijk plaatsnamen 
+•	Terminallocaties: locaties uit de BICS database o aan te raden indien je ook Tresco eMelden gebruikt, aangezien deze locaties dan ook rechtstreeks worden gebruikt voor het eMelden via BICS 
+ 
+Er zijn 4 mogelijkheden om een vertrekplaats te kiezen: 
+ 
+•	vertrekpunt nabij het schip, deze lijst wordt automatisch getoond: kies en druk “ok“ 
+•	Een andere locatie uit de database: typ een naam, kies uit de lijst en druk “ok” 
+•	Een opgeslagen route openen: klik op “Laad bestaande route” 
+•	Kies een favoriet 
+ 
+Na bevestiging van de vertrekplaats, wordt automatisch het scherm voor het selecteren van een bestemming geopend. Hier wordt hetzelfde principe gehanteerd als bij de vertrekplaats! 
+ 
+Het overzichtsscherm van de reis wordt nu getoond. Dit bestaat uit 6 onderdelen: 
+ 
+•	Geplande route: 	Vertrekplaats / Bestemming 
+•	Scheepsafmetingen: 	Instelling / Gebruikt om de route te plannen 
+•	Kandidaat routes: 	Afstand geplande route & eventuele alternatieve routes 
+•	Info over de reis: 	Vertrek, ETA, Afstand & Duur 
+•	Kaart, Plan (Objectenlijst) & Limieten (Eventuele beperkingen op de route) 
+•	Bewaar Route-specificaties & Exporteer Reisplan naar PDF 
+  
+ 
+Druk op aanvaarden om de reis te bevestigen, een “route” van de geplande reis wordt op de Tresco kaart getoond. Aan de linkerkant van het scherm wordt een objectenlijst weergegeven met informatie over locaties, bruggen, sluizen op de route. 
+ 
+Via reeds bewaarde reis 
+ 
+Klik in het menu op Reisplan/Reis plannen of in de knoppenbalk op het Reisplan icoon. Het venster “Selecteer vertrekplaats” wordt automatisch geopend. Onderaan de lijst heeft men de mogelijkheid om een bestaande (bewaarde) route op te vragen.  
+
+Reis track aan / uit 
+Nadat een reis is bevestigd wordt deze met een lijn op de kaart getoond, deze kan men verbergen door de knop Routelijn tonen/verbergen in te drukken. Echter icm Tresco TrackPilot is deze functie niet beschikbaar, de SmartTrack moet dan in beeld moet blijven staan.  
+
+Reis wissen 
+Door op het “vuilbakje” te klikken zal de reis in zijn geheel worden gewist.  
+ 	 
+Objectenlijst 
+Zoals hierboven vermeld zal standaard een objectenlijst worden weergegeven aan de linkerkant van het scherm, indien een route is aangemaakt. Deze lijst bestaat uit:  
+  
+	   Objecten met berichten aan de scheepvaart 
+ 
+   Bruggen 
+ 	 
+Sluizen 
+ 	 
+Radiomeldingsposities 
+ 	 
+Bebouwde gebieden 
+ 	 
+Waterstanden 
+ 
+Bovenaan de objectenlijst kan men kiezen welke objecten in de lijst worden getoond (of niet). Het object dat het dichtste bij het schip is gelegen wordt “vet” aangeduid.  
+ 
+Plaats de cursor op een object om extra info te verkrijgen van dit object.  
+ 
+Onderaan de objectenlijst wordt de Bestemming, ETA & de nog af te leggen afstand weergegeven. 
+ 
+Wenst men de objectenlijst niet te zien, bij rechtopstaand beeld kan hierdoor de navigatie kaart vrij smal worden, dan is deze lijst eenvoudig te verbergen door op de pijl te klikken in het midden van de lijst. 
+ 
+ 
+Hierdoor verdwijnt dan ook onderstaande data van ETA enz… Deze kan ook worden weergegeven in het instrumentenpaneel.  
+
+Brughoogtes 
+In de objectenlijst worden bruggen weergegeven, de laagste brug op de reis wordt in het rood extra aangeduid.  Tevens worden in het instrumentenpaneel de 2 opeenvolgende bruggen getoond met afstand af te leggen tot aan de brug en de brughoogte. De laagste brug op de reis wordt eveneens aangeduid in het rood.  
+ 
+VHF kanalen 
+In het instrumentenpaneel worden ook de VHF Kanalen getoond,  welke in de juiste volgorde worden weergegeven. 
+ 	 
+Reisplan scherm 
+Zoals hierboven vermeld is de handigste manier om een reis te plannen deze via het Reisplan scherm. Dit scherm geeft veel meer info over de reis. Het Reisplan scherm bestaat uit 6 onderdelen: 
+ 
+• 	Geplande route: 	Vertrekplaats / Bestemming 
+• 	Scheepsafmetingen: 	Instelling / Gebruikt om de route te plannen 
+• 	Kandidaat routes: 	Afstand geplande route & eventuele alternatieve routes 
+• 	Info over de reis: 	Vertrek, ETA, Afstand & Duur 
+•	Kaart, Plan (Objectenlijst) & Limieten (Eventuele beperkingen op de route) 
+•	Bewaar Route-specificaties & Exporteer Reisplan naar PDF 
+ 
+Vertrek / Bestemming 
+Hier wordt het vertrek / bestemming van de geplande reis weergegeven. Via “laad route-specificaties” kan men een reeds bewaarde route heropenen. Wenst men een via of een punt te editeren, dan kan dat via bijgevoegde knoppen. Onderaan kan men de reis omdraaien en wissen. 
+  
+Kandidaat routes 
+Hier worden de beschikbare mogelijke routes weergeven, evenals eventuele alternatieve routes. 
+ 
+De alternatieve route met maximale afmetingen wordt eveneens getoond, extra aangeduid in het oranje. 
+Info over de reis 
+ 
+Kort overzicht van de geplande reis, en bevat de volgende zaken: 
+ 
+•	Vertrek & ETA 
+•	Afstand & Duur (berekend op basis van ingestelde snelheid) 
+•	Kaart  	(gevisualiseerd in kaart) 
+•	Plan 	 	(als objectenlijst) 
+•	Limieten 	(geeft beperkingen op uw route aan) 
+ 
+Afmetingen: 
+Sommige kaarten bevatten niet alle diepte of hoogte gegevens, hierdoor kan soms een route niet worden berekend. Daarom is er een mogelijkheid om de afmetingen aan te passen. Er zijn 2 mogelijkheden om afmetingen aan te passen:  
+ 
+•	Instelling: hierbij worden de afmetingen ook in de scheepsinstellingen van Tresco aangepast en dus ook in de AIS transponder! Dit is dus niet aan te raden, dat is de reden waarom het bewerken met een paswoord is beveiligd 
+•	Gebruik om de route te plannen: de afmetingen worden enkel aangepast voor de te berekenen route en dus niet in de scheepsinstellingen van Tresco. 
+Plan (Objectenlijst) Afmetingen 
+Het onderste gedeelte van het Reisplan scherm bestaat uit 3 gedeeltes: 
+ 
+•	Kaart 
+•	Plan 
+•	Limieten 
+ 
+Kaart: 
+ 
+Overzicht van de geplande reis gevisualiseerd in kaart. 
+ 
+Plan:  
+ 
+Geeft de volledige objecten lijst weer incl. afmetingen. 
+ 
+Limieten: 
+ 
+In bepaalde situaties is er een verschil in officiële afmetingen en toegelaten afmetingen op de kunstewerken (sluizen), in dit overzicht wordt dit toonbaar gemaakt: 
+ 
+•	Toegelaten afmetingen volgens de waterweg beheerder 
+•	Beschikbare afmetingen volgens de kunstwerken 
+  
+Opties 
+Onder deze knop bevinden zich de opties met betrekking tot het plannen van de reis. Dit scherm bevat 3 onderdelen: 
+ 
+•	Route-opties 
+•	Vaarschema 
+•	Reisinstellingen 
+ 
+Route opties: 
+ 
+•	Korste / snelste route 
+•	Zeewaardig / Estuarie vaart: mogelijkheid om de route over zee te plannen 
+ 
+Vaarschema: 
+ 
+De ETA van een reis wordt berekend aan de hand van het in te geven vaarschema. In te stellen per dag / uren  
+ 
+Reisinstellingen: 
+ 
+Extra instellingen met betrekking op het berekenen van de reis & Transponder. Indien men deze aanpast zal ook automatisch de transponder worden geprogrammeerd ! 
+ 
+ 	 
+Toon / print / bewaar Reisplan 
+Indien men Reisplan gebruikt voor de EBIS controle is dit een zeer belangrijke functie. Via deze functie kan men dus zeer snel een geplande reis bekijken maar vooral bewaren en / of afprinten. 
+ 
+Deze Functie is te vinden in het Reisplan opstart scherm.  
+ 
+Of eenvoudig te openen via de Reisplan functie knoppen balk 
+ 
+Nadat een reis is gepland kan men deze bewaren en/of afprinten voor de EBIS controle. Verder omvat het scherm ook nog andere overzichtsgegevens 
+  
+•	Scheeps gegevens: Naam / Kapitein 
+•	Reisgegevens: Vertrek / ETA / Afstand / Duur 
+•	Aantal sluizen 
+•	Aantal bruggen 
+•	Details van geselecteerde objecten 
+•	Filters 
+ 
+ 	 
+Filters 
+Indien filters worden gedeactiveerd zullen deze objectpunten NIET in de overzichtslijst worden opgenomen en ook niet worden bewaard ! 
+ 
+ 
+Bewaren Reisplan 
+ 
+Indien men de geplande reis wil bewaren druk op de “bewaren” knop onderaan het scherm. Tresco opent automatisch de map “Voyage Plans”. Uiteraard is het mogelijk om zelf een locatie te kiezen waar het Reisplan moet bewaard worden. 
+  
+ 
+Kies aan de linkerkant op de gewenste locatie waar het reisplan moet worden opgeslagen. 
+  
+Het reisplan zal zelf een naam aan het bestand geven, bestaande uit: 
+•	datum van de reis 
+•	startpunt 
+•	bestemming 
+Voorbeeld: 2024-06-10 – KOP van T LAND – Ruse.pdf. Uiteraard is het ook mogelijk om zelf een naam voor de reis te kiezen. 
+ 
+Tresco zal bij de volgende op te slagen reis automatisch dezelfde locatie kiezen. 
+ 
+ 
+Automatisch bewaren 
+ 
+Indien je wenst dat een reisplan automatisch wordt bewaard bij het aanvaarden van de lijst, kan men dit instellen in opties. Zie hieronder, Extra Reisplan opties. 
+ 
+Extra Reisplan opties 
+Verder zijn er nog een aantal extra opties in te stellen voor het Reisplan. Deze hebben betrekking op de tracklijn. De opties kan men openen via instellingen / opties / Reisplan.  
+ 
+•	Lijn tonen: track lijn aan / uit, kan ook via de knop in de knoppenbalk van “Reisplan” 
+(Deze optie word uitgeschakeld op het moment dat de Tresco TrackPilot word geactiveerd) o Kleur: kleur van tracklijn o Ondoorzichtigheid: ondoorzichtigheid van de tracklijn o Dikte: dikte van de tracklijn o Kleur: van de SmartTrack o Dikte: dikte van de SmartTrack 
+•	Export: er wordt automatisch een PDF rapport aangemaakt bij het aanvaarden van een nieuwe Reis! 
+RIS toepassingen in Reisplan 
+Indien er een internet is aangesloten op de navigatie PC kan men automatisch RIS berichten (automatisch) downloaden. Deze RIS berichten bestaan uit: 
+ 
+•	Waterstanden 
+•	BAZ berichten: berichten aan de zeevarenden 
+ 
+Tresco Navigis kan automatisch de RIS berichten selecteren die van toepassing zijn op de geplande route ! 
+  
+ 
+Berichten op route: 
+ 
+Als er gegevens bekend zijn op de route van obstructies, stremmingen of andere vertragingen worden deze ook gemarkeerd in de route info door middel van kleuren. 
+ 
+•	Rood: obstructie 
+•	Oranje: gedeeltelijke obstructie 
+•	Geel: vertraging 
+•	Grijs: andere 
+
+
+Als de klant het over het volgende heeft:
+
+Tresco start heel traag op. Reisplan aanmaken duurt lang. Tresco loopt vast bij aanmaken reisplan of doorsturen BICS.
+
+Dan:
+
+De klant kan proberen naar Windows instellingen te gaan, dan naar 'printers en scanners'. Zet hier de optie: 'Mijn standaardprinter door Windows laten beheren' uit. Klik dan op 'Microsoft Print to PDF' en stel deze in als standaard.
+Als het probleem hiermee niet opgelost is, dan ligt het waarschijnlijk aan een trage/verouderde PC.
+
+Dieptepunten en dieptelijnen kan je aan- of uitzetten linksboven bij 'Kaart' en dan 'Details...'. Hier kan je alle kaartelementen kiezen die je wil tonen in de kaart. Zorg er ook voor dat de kaartmodus op 'Usr' staat.
+ 
+Snelstart  
+
+2. Navigis - Installatie 
+ 
+Tresco Navigis is beveiligd dmv een USB dongle (Sentinal). Opgelet, plaats deze USB dongle pas na installatie van Tresco Navigis software op de PC!
+Plaats de Tresco Navigis installatie USB in de PC.
+Klik linksonder op het “Verkenner” icoon
+Klik in de linkse kolom op “Deze pc”.
+Klik met je rechter muis knop op de USB drive 
+“Tresco installatie (E:)”
+Klik dan op “Openen”
+Dubbel klik op “Setup.exe” (of “Setup” als de extensie niet getoond wordt, zie screenshot)
+Tresco Setup start automatisch op met de taal van het geïnstalleerde besturingssysteem. Kies de
+taal en klik op “OK”.
+Klik op “volgende”.
+Klik op “volgende”.
+De licentie overeenkomst “accepteren”
+Install sentinel driver: Altijd aanvinken bij een nieuwe installatie!
+Setup wallpaper:
+Tresco bureaublad.
+Show file extensions in Windows Explorer:
+Dit moet aangevinkt zijn! 
+Klik op “volgende”.
+Klik op “installeren”.
+Tresco Navigis wordt geïnstalleerd.
+Klik op “Voltooien”.
+Plaats nu de USB dongle op de navigatie PC.
+Tresco Navigis is nu geïnstalleerd en heeft een “snelkoppeling” op het bureaublad aangemaakt. Dubbelklik op de snelkoppeling om Tresco Navigis te starten.
+Een scherm met “Systeem
+instellingen” verschijnt, klik op “OK” en Navigis start op!
+ 
+USB / serial convertor (indien nodig) 
+ 
+Indien uw computer niet over een seriële-poort (COM) beschikt, dan kan men een USB / Serieel convertor installeren. Is deze geleverd door Tresco, volg onderstaand schema.  
+
+Ga naar de het bestand:
+C:\NaviChart\Drivers\USB2Serial\VsCom\USBCom-CDM_20830_81 (new).exe
+En voer de installatie uit.
+Sluit nu de USB stekker van de serial convertor aan in de computer.
+
+ 
+3. Instellen Navigis 
+Systeem Instellingen 
+ 
+Sluit eerst de devices aan op de computer:
+° GPS antene
+° AIS 
+° Diepte meter
+° Windmeter
+Enz…
+Ga naar
+Instellingen / Systeem.
+Paswoord = 0000
+(vier keer nul), voor schermtoetsenbord, klik blauwe icoon
+De aangesloten devices (GPS, AIS, enz) moeten nu door Tresco Navigis worden herkend. Dit kan automatisch worden
+uitgevoerd
+Klik op “Auto-detectie”.
+“Tresco Navigis wordt afgesloten. Doorgaan?” Klik op “Ja”.
+Navigis gaat nu op zoek naar eventueel aangesloten devices: GPS, GPS Kompas, AIS,
+windmeter enz.…
+In de kolom “Port” kan u zien welke com-poorten aanwezig zijn op de PC. In “Device” kan u zien welke aangesloten apparaten de “auto-detectie” heeft gevonden: OK (blauwe balk).
+Klik hierna op “stop scannen” en daarna op “instellingen accepteren”.
+Er verschijnt een
+“configuration overview”, klik op ”instellingen accepteren”.
+Tresco Navigis wordt automatisch opgestart
+Indien alle devices goed zijn gedetecteerd wordt nu een kaart getoond in Tresco
+Scheepsinstellingen
+Ga naar Instellingen/Schip.
+Ga naar “Eigenschappen”, vul Lengte & Breedte van het schip in. De andere parameters zijn van toepassing indien de optie Reisplan is geactiveerd. 
+Ga naar “antennes”, positioneer uw GPS antenne
+(Hoogte is niet van toepassing).
+Klik op “OK”.
+
+ 	 
+AIS transponder configureren via Tresco Navigis 
+ 
+Als de optie Tresco AIS actief is kan u de AIS transponder configureren en programmeren via Tresco. Het is zeer belangrijk om het juiste merk van AIS transponder in te stellen voor een goede communicatie tussen transponder en Tresco. 
+ 
+Tresco ondersteunt alle goedgekeurde Inland AIS transponders voor data communicatie: 
+ 
+•	Saab R4 
+•	Nauticast ACR 
+•	Furuno FA-150 
+•	CNS VDL-6000 
+•	OceanSat / ComNav / L3 
+ 
+Is de transponder goed aangesloten dan zal Tresco via een “Auto Detect” het merk van AIS transponder herkennen. 
+ 
+Ga naar instellingen / systeem (wachtwoord is 0000), en kies “AIS”.
+Klik op “autodetect”, Tresco ondervraagt de AIS transponder
+Nadat Tresco het juiste merk van AIS transponder heeft gevonden klik op, “Initiële configuratie”, hier kan men, afhankelijk van merk transponder, een aantal instellingen van de transponder programmeren. Indien de installateur van de AIS transponder dit goed heeft uitgevoerd, is dit uiteraard niet nodig !
+Scheepsidentificatie schip: Scheepsinstellingen van het schip: Scheepsnaam, Callsign, Scheepstype.
+transponder -Identificatie: Dit zijn de belangrijkste parameters van de AIS transponder. Zonder deze gegevens zal de transponder NIET uitzenden!
+Opgelet: bij veel
+transponders kan men het MMSI nummer slechts 1 keer ingeven. Als dit nummer verkeerd is ingesteld kan men dit verder niet meer aanpassen!
+Eigenschappen schip:
+Klik op “Scheepsinstellingen overnemen” om de afmetingen van het schip vanuit Tresco over te nemen en te programmeren in de AIS transponder.
+GPS antenne:
+Tresco neemt de positionering van de GPS antenne over om de positie van de AIS antenne te bepalen. Dit kan men manueel veranderen door op de “pijltjes te klikken”.
+Nadat alle parameters zijn ingesteld klik op “OK” om de AIS te programmeren met de ingegeven instellingen”.
+  
+Voorbeelden van vragen/opmerkingen van klanten:
+ 
+ Kaarten zijn verouderd. Hoe kaarten updaten? Oude software. Hoe updaten? Online updates. Hoe installeer ik de software? Waar kan ik Tresco downloaden?
+
+Om de Tresco software te downloaden en installeren moet de klant ons kantoor even opbellen. Als de klant de software al heeft en wenst bij te werken dan kan je uitleggen wat hieronder staat beschreven.
+Als klanten 6 maanden achterstaan met updates krijgen zij een melding in beeld te zien dat hun kaarten zijn verouderd.
+Om kaarten bij te werken en online te updaten heb je een actief supportcontract en een stabiele internetverbinding nodig.
+Ga rechtsboven naar Help > Controleer op updates.
+Een nieuw venster opent zich met een lijst van nieuwe updates. Klik nu linksonder op Update(s) toepassen.
+De updates worden nu gedownload. Wanneer de download klaar is verschijnt er een nieuwe knop 'Install the updates'. Als je hier op klikt zal Tresco opnieuw opstarten.
+Tresco is nu bijgewerkt.
+
+Tresco kan ook automatisch nieuwe updates toepassen:
+Ga rechtsboven naar Instellingen > Opties... > Online update.
+Klik dan het vakje aan 'Updates automatisch op de achtergrond downloaden'
+https://www.youtube.com/watch?v=_wWWIQloabI - In deze video wordt getoond hoe je (automatisch) kan updaten.
+
+**Installatie ENC-charts :  **
+ 
+**Primar, AVCS (UKHO) **
+ 
+ 
+ 
+**Stap 1: Installatie user-permits**
+ 
+Om de S57 data, beschikbaar gesteld door IC-ENC - Primar Stavanger of AVCS, te kunnen gebruiken moet u eerst de nodige kaartvergunningen installeren. 
+ 
+De nieuwe vergunningen worden aan het systeem toegevoegd. Oude vergunningen worden, indien nodig, vervangen. 
+ 
+**Ga naar **Kaart/S57/Installeer vergunning
+ 
+Selecteer het bestand
+ 
+‘**PERMIT.TXT**’ en klik op ‘Openen’. Hierna moet de vermelding verschijnen:
+ 
+“Installatie voltooid”
+ 
+**Stap 2: installatie van kaarten (base CD)**
+ 
+**Ga naar** Kaart/S57/Installeer dataset
+ 
+**Klik** op ENC_ROOT en hierna** **op openen
+ 
+**Klik** op CATALOG.031 en hierna op openen
+ 
+Navigis leest het catalogus bestand en toont de lijst van kaarten die geïnstalleerd kunnen worden. 
+ 
+Standaard worden alle kaarten, waarvoor u een vergunning heeft, geselecteerd.
+ 
+**Klik** op “Installeren”. 
+ 
+Na de installatie toont NaviChart hoeveel cellen er correct geïnstalleerd zijn.
+ 
+**Klik** op “OK”
+ 
+Indien er kaarten niet of fout geïnstalleerd zijn wordt er een foutrapport aangemaakt.
+ 
+ 	*** ***
+ 
+# Overzicht kaartzones en installatie Base/update cd’s 
+ 
+ 
+Ga naar Kaart/s57/Permit overzicht 
+ 
+Hier staat een overzicht van de geïnstalleerde kaarten en wanneer ze vervallen. 
+ 
+ 
+Via Kaart/s57/Installatie log staat een overzicht welke base en update cd's er geïnstalleerd zijn. 
+
+TrackPilot (afkorting TP of TTP voor Tresco TrackPilot)
+
+De TrackPilot + SmartTracks kost 2500 per jaar.
+
+Men vindt onder het menu ‘Help’ de aparte handleiding voor TrackPilot
+
+Woordenlijst en veelgebruikte termen
+
+AIS				Automatic Identification System
+Geautoriseerd bedrijven	Bedrijven geautoriseerd door Tresco
+Goedgekeurde
+gespecialiseerde bedrijven	Installatie bedrijven met CCNR goedkeuring
+CCR or CCNR			Central Commission for Navigation on the Rhine
+COG				Course Over Ground
+DGPS				Differential Global Positioning System
+DVI				Digital Visual Interface
+ECDIS				Electronic Chart Display and Information System
+ECS				Electronic Chart System
+EGNOS				European Geostationary Navigation Overlay Service (for GPS)
+ENC				Electronic Navigational Chart
+GPS				Global Positioning System
+IALA				International Association of Lighthouse Authorities
+IEC				International Electrotechnical Commission
+IENC				Inland Electronic Navigational Chart
+Informatiemodus		ECS zonder radar overlay
+Inland ECDIS			Inland Electronic Chart Display and Information System
+Navigatiemodus		Type Approved Inland ECDIS met radar overlay
+NMEA				National Marine Electronics Association
+PC				Personal Computer
+PSU				Power Supply Unit
+ROT				Rate Of Turn (in degrees per minute)
+RTCM				Radio Technical Commission for Maritime Services
+RX				Receive or Receiver
+SENC				System ENC, or, manufacturer encrypted chart
+SHM				“Ship’s Heading Marker” or “Bearing Zero” pulse
+SOG				Speed Over Ground
+TRESCO or Tresco		Tresco Engineering bv, Antwerpen
+TTP				Tresco TrackPilot
+TST				Tresco SmartTracks
+TX				Transmit or Transmitter
+UTC				Universal Time Co-ordinated, or, Greenwich Mean Time (GMT)
+VGA				Video Graphics Array
+WAAS				Wide Area Augmentation System (for GPS)
+ 
+ 
+Support
+
+Support nodig?
+
+Heeft de klant een vraag die jij niet kan beantwoorden of werkt iets niet zoals verwacht? Neem dan contact op met de wederverkoper of met de winkel of installateur waar het product gekocht is.
+
+Lukt dat niet of directe hulp nodig? 
+
+Dan staan we ook bij Tresco klaar – elke werkdag tussen 8.00 en 17.00: 
+
+📞 +32 3 231 07 31
+✉️ support@tresco.eu
+
+
+ 
+Productspecificaties
+Kenmerken
+
+ALGEMEEN
+
+Tresco Certified
+TTP PC: 	Een goedgekeurde PC geleverd door Tresco of een geautoriseerd bedrijf.
+
+Monitor:	Installatie van de monitor MOET in het gezichtsveld van de navigator worden geïnstalleerd. 
+
+Resolutie:			Minimaal 1024 x 1280 pixels
+
+Stroom:	Gebruikt de host PSU van de PC. Respecteer de aardverbinding (moet voldoen aan IEC 60533 of hoger).
+
+INTERFACES & AANSLUITINGEN
+
+Electrische Interfaces:	NMEA-0183 voor communicatie met AIS, GPS (kompas) en bochtaanwijzer (Rate-of-Turn).
+
+Connectoren:		LAN-poort voor communicatie met RZ-Piloot. (geen adapter!)
+				USB poort voor connectie met TTP Interface voor EBF Piloot.
+				DB-15 VGA connector, DVI, DP-port or HDMI connector.
+				DB-9 seriëel of USB-to-Serial connector for NMEA.
+
+NAUWKEURIGHEID
+
+Positie nauwkeurigheid:	Gelijk aan de nauwkeurigheid van het GPS kompas.
+
+Radiale nauwkeurigheid:	Gelijk aan de nauwkeurigheid van het GPS kompas, ± 0.1°
+
+Kompas veiligheids-
+afstand:			>1,5m
+
+PILOOT-COMPATIBILITEIT
+
+EBF piloot			Junctionbox: EBF02A
+				Type: MF, AlphaTrio, BasicTriple
+
+RadioHolland Piloot:	 Junctionbox / Processorbox: P503-MK2
+Combipiloot / Zichtinstrument: Sigma-500, Titan-500, Thor-500, Thor, Thor-XL
+Hendel: Sigma-550, Titan-550, Falcon-550
+Remote hendel (in stoel): Sigma-650, Titan-650
+
+
+
+Normen, voorschriften en typegoedkeuringen
+
+Onafhankelijke keuring
+
+De volgende onderdelen zijn getest en goedgekeurd door een extern keuringsbureau:
+
+•	Tresco Certified TTP PC
+•	Tresco EBF-Interfacebox
+
+Stuurwachtalarm inbegrepen
+
+TrackPilot bevat standaard een stuurwachtalarm.
+Je kan dit instellen tussen 1 en 8 minuten. 
+Bij geen muisactiviteit binnen de gekozen tijd klinkt automatisch een alarm.
+
+Veiligheidsprioriteit aan boord
+
+TrackPilot is ontworpen als ondersteuning - nooit als vervanging. 
+
+Daarom:
+
+•	De boordpiloot heeft altijd voorrang op TTP.
+•	Bij uitval van de navigatie-pc schakelt het systeem automatisch terug naar manuele bediening.
+•	Je wordt steeds gewaarschuwd via visuele en/of hoorbare alarmen.
+
+ 
+Navigeren met TrackPilot - werken met Tracks
+Algemeen
+
+TrackPilot gebruikt zogenaamde tracks om je schip automatisch te laten sturen. 
+
+Er zijn vier manieren om een track te openen, te maken of te activeren:
+
+1.	SmartTracks via Tresco Reisplan / SmartTrack laden…
+2.	Schip volgen (Vesseltrain-functie)
+3.	Gevaren Track openen (eerdere vaartocht)
+4.	Route via Waypoints openen
+
+SmartTracks via Tresco Reisplan
+
+Heb je geen eigen route of gevaren track? Geen probleem: SmartTracks berekenen automatisch een veilige en optimale vaarlijn, rekening houdend met richting (op- of afvarend) en waterstand.
+
+Zo werkt het:
+
+•	Open via: Tresco TrackPilot → SmartTrack laden…
+of Reisplan → Reis plannen
+•	Kies vertrekplaats en bestemming - vervolgens aanvaarden
+•	SmartTrack verschijnt automatisch op de kaart
+
+Waar mogelijk zal tevens in het instrumentpaneel de optie verschijnen om een alternatieve track te selecteren in combinatie met waterstand.
+
+SmartTracks worden gegenereerd op basis van anonieme vaargegevens van andere schepen. 
+
+Sluizen worden bewust uitgesloten - om invaren van een sluis op TrackPilot te voorkomen, zijn de SmartTracks zijn daar onderbroken. Je krijgt ruim op tijd visuele én auditieve waarschuwingen.
+
+Schip volgen
+
+•	Ga naar Tresco TrackPilot → Schip volgen…
+
+•	Selecteer het gewenste schip uit de AIS-lijst
+
+Gevaren Track openen
+
+Je kan ook een reeds gevaren track uit het verleden gebruiken als vaarroute.
+
+•	Ga naar Tresco TrackPilot → Gevaren track openen…
+•	Kies de gewenste track uit de lijst
+•	(Optioneel) Pas deze track aan
+•	Bevestig: Track in gebruik → JA
+
+Route via waypoints
+
+Wil je navigeren via een eerder ingegeven route met waypoints?
+
+•	Ga naar Tresco TrackPilot → Route (waypoints) openen…
+•	De route wordt automatisch omgezet naar een vaarlijn (geen losse waypoints meer)
+
+
+In- en uitschakelen van TrackPilot
+
+Zodra er een track is ingeladen, en het instrumentenpaneel rechts in Tresco Navigis geel kleurt (status : “Klaar”), kan je de TrackPilot activeren.
+
+Alphatron autopiloot
+
+TTP inschakelen:
+•	Zet de stuurhendel in het midden
+•	Druk 1x op de KOMPAS-knop
+
+Gebruik je een BasicTriple ? 
+
+ Druk dan op de AUX-knop
+
+Het instrumentenpaneel wordt groen: actief
+
+TTP uitschakelen:
+•	Druk op de WEG- of AUTO-knop 
+Of neem de stuurhendel over :
+
+	Je krijgt direct controle, maar het piloot-alarm gaat af.
+	Druk daarna op WEG of AUTO om het alarm te stoppen
+	
+Radio Zeeland autopiloot
+
+TTP inschakelen:
+
+•	Zet de stuurhendel in het midden
+•	Druk op de rode knop op de piloot
+•	Het instrumentenpaneel wordt groen: actief
+
+TTP Uitschakelen:
+•	Druk op de wegafhankelijk of pilootmodus-knop
+•	Of neem de stuurhendel over
+
+ De piloot schakelt automatisch terug naar wegafhankelijk
+ Er volgt een auditief alarm – dit stopt pas na bevestiging via deze knop op de piloot
+ 
+Uitschakelen TrackPilot
+
+Handmatig uitschakelen (altijd mogelijk)
+
+Je kan de TrackPilot op elk moment uitschakelen door:
+
+•	Te drukken op WEG of AUTO
+
+•	Of de hendel uit het nulpunt te halen
+
+ Let op: dit activeert een hoorbaar alarm
+ 
+ TrackPilot status
+Instrumentenpaneel
+
+De TrackPilot kan alleen geactiveerd worden als aan alle voorwaarden is voldaan:
+•	De stuurhendel moet correct staan
+•	Er moet een geldige Tresco Track geladen zijn
+
+Als dat niet het geval is, krijg je in het instrumentenpaneel van TTP een melding. 
+
+Groen: Tresco TrackPilot is actief!
+
+Geel: Tresco Trackpilot is klaar om te activeren
+
+Oranje: Tresco TrackPilot kan nog niet inschakelen  (Te ver, te langzaam of driften!)
+
+Rood: Tresco TrackPilot geen data alarm!
+
+
+Waterstand-profiel
+
+Voor (of tijdens) het varen met TrackPilot kan je kiezen welk smarttrack-profiel je wil gebruiken, gaande van ‘heel laag water’ tot ‘heel hoog water’.
+Kleuren van de TTP-tracklijn in de kaart
+
+Zodra TrackPilot actief is, zie je dat ook op de navigatiekaart. De kleur en vorm van de lijn geven telkens de status weer:
+
+1. SmartTrack (voorbereidend)
+Als je een route plant maar het schip is nog niet in de buurt (of er is een eigen track geladen), dan zie je:
+
+Een blauwe lijn met kleine pijltjes → dit toont de richting van de SmartTrack
+2. Track klaar voor gebruik
+Wanneer het schip zich dicht bij de track bevindt, en de reis is gepland, dan:
+•	Wordt de track automatisch geladen in TrackPilot
+•	Je ziet:
+            Blauwe stippellijn = het volledige traject
+
+            Groene stippellijn = het deel vóór het schip (actief traject)
+3. TrackPilot actief
+Zodra TrackPilot ingeschakeld is:
+•	De groene stippellijn wordt een volle lijn
+•	Rond de lijn verschijnt een groen transparant vlak
+↳ Dit toont het verwachte vaargebied, afgestemd op de afmetingen van het schip
+4. Handmatige correctie
+Versleep je de track manueel? Dan krijg je:
+•	Blauwe stippellijn = de oorspronkelijke (oude) track
+•	Groen gebied = hoe TrackPilot verwacht de nieuwe lijn te bereiken
+ 
+Track-afstandsmeter
+
+Zodra TrackPilot actief is, verschijnt automatisch de track-afstandsmeter op het scherm. 
+(uiteraard is dit aanpassen voor klanten met een TTP Touchscreen.)
+
+Deze meter geeft in één oogopslag de positie van je schip ten opzichte van de track weer.
+
+Wat toont de afstandsmeter?
+
+•	Afstand tot de SmartTrack-hoofdtrack
+•	Afstand tot de gewenste lijn (bij paralleltracking)
+•	Afwijking van je schip ten opzichte van de ingestelde koerslijn
+
+Bediening: parallelle lijnen instellen
+
+Via de knoppen onderaan de meter kun je eenvoudig de gewenste lijn aanpassen:
+
+•	Rood knopje → Paralleltrack 5 meter naar bakboord verschuiven
+
+•	Groen knopje → Paralleltrack 5 meter naar stuurboord verschuiven
+
+Deze afstand is ook zelf in te stellen per profiel. Ga naar Configuratie wijzigen > General settings > Stapgrootte parallel track
+ 
+Actieve Track aanpassen 
+
+Of je nu met een SmartTrack, eigen track of waypoint-route vaart:
+
+Een actieve track in TrackPilot kan op elk moment worden aangepast – zelfs tijdens het varen.
+
+Zodra een track actief is, wordt automatisch een route met waypoints aangemaakt. Die kan je eenvoudig bewerken.
+
+Zo pas je een actieve track aan:
+
+1.	Ga naar Tresco TrackPilot → Route bewerken…
+2.	Klik op het icoon bovenaan het menu
+3.	Sleep de gewenste waypoint(s) naar een nieuwe positie
+4.	Een waypoint verwijderen?
+↳ Klik er één keer op en druk op je toetsenbord op DEL
+5.	Klaar? Kies "Track in gebruik nemen" om de aangepaste route te activeren
+Alarmeringen
+Stuurwachtalarm
+
+Het stuurwachtalarm controleert of er nog actieve bediening is in de stuurhut (bijv. om inslapen te voorkomen).
+
+Het alarm wordt geactiveerd als er gedurende een ingestelde periode geen muisbeweging in Tresco Navigis werd gedetecteerd. Deze periode is maximaal 8 minuten
+
+Het stuurwachtalarm is voor iedereen aangepast naar maximaal 8 tot 15 minuten. Dit wil zeggen dat na 8 minuten stilstaan van de muis het alarm kan afgaan, en na 15 minuten het gegarandeerd is. Deze waardes zijn niet zelf aan te passen, en kunnen niet hoger.
+Dit alarm kan u voorkomen door af en toe de muis of het toetsenbord te gebruiken.
+
+Onderstaand artikel is de reden waarom we de maximumtijd van het alarm hebben aangepast, om de overstap in de toekomst te verkleinen:
+
+De Rijnvaartcommissie (CCNR) bepaalde in 2025 dat een stuurwachtalarm ("awareness monitoring system" of AWS) bij gebruik van Trackpiloot zal gaan verplicht gesteld worden.
+De standaard voor het stuurwachtalarm zegt onder andere dat:
+
+1.	na 5 minuten inactiviteit een visueel alarm moet getoond worden in de ECDIS of op het TrackPiloot-paneel,
+
+2.	na 6 minuten inactiviteit een auditief alarm in de stuurhut moet weerklinken, en,
+
+3.	na 7 minuten inactiviteit een auditief alarm via de algemene alarmcentrale van het schip moet weerklinken.
+
+Dit wordt gestemd in 2026 en nadien door de CCNR-lidstaten omgezet worden in hun respectievelijke nationale scheepvaartwetgeving. Hierdoor zal begin 2027 het gebruik van het stuurwacht alarm voor de binnenvaart algemeen verplicht worden. Duitsland heeft hiervoor echter onverwacht een invoeringsverplichting eerder uitgevaardigd in (oktober 2025). Deze verplichting geldt voorlopig enkel voor de Duitse kanalen en niet voor de Rijn, Moezel, enz...
+
+De binnenvaartsoftwarefabrikanten (EADINS) vinden de perioden van 3, 4 en 5 minuten te krap maar de Franse delegatie van de CCNR wou hiervan niet afwijken.
+
+De (in)activiteit in de stuurhut wordt door Tresco gecontroleerd door naar het gebruik van de muis of het toetsenbord te kijken.
+Navigis gaf melding na een willekeurige tijd tussen 10 en 20 minuten tijdens gebruik van de TrackPiloot. Dit werd naar aanleiding van de Duitse verordening reeds ingekort naar een time out tussen 8 en 15 minuten.
+Begin 2027 zal Tresco ook de standaard volgen:
+Indien na 3 geen gebruikersinteractie wordt opgemerkt, toont Navgis een melding (1.). Indien na 4 minuten geen activiteit wordt gezien, dan laat de Trackpiloot een geluid weerklinken (2.) Als de schipper na 5 minuten nog steeds niet reageert, geven we een algemeen alarm (3.).
+Om het algemeen alarm na 5 minuten te activeren moet er eerst een verbinding van de Tresco-PC naar de alarmcentrale aan boord gemaakt worden.
+
+
+Werking:
+1.	Eerst verschijnt er een waarschuwing bovenaan in beeld
+↳ Beweeg de muis om dit te annuleren
+2.	Blijft er nog langer inactiviteit?
+↳ Dan klinkt er een auditief alarm
+↳ De melding gaat knipperen
+↳ Je moet dit bevestigen om het alarm uit te schakelen
+End of track alarm
+
+Nadert het schip het einde van de actieve track? Dan:
+Krijg je een geluidsalarm en verschijnt er een duidelijke melding bovenaan met uitleg van de situatie. 
+
+
+Software-updates
+
+Voor het gebruik van TrackPilot is een actief Tresco Support-abonnement verplicht. 
+Dit geeft je toegang tot updates, extra functies en hulp wanneer je die nodig hebt.
+
+Tresco Support abonnement
+
+Wat is inbegrepen?
+
+Updates:
+
+•	Software met nieuwe functies
+•	Kaarten en vaarweginformatie
+•	Automatische SmartTrack-vernieuwingen
+
+Extra functies:
+
+•	Ligplaatsen, sluizen en brugstatus online raadpleegbaar
+•	3D-weergave
+•	Bing luchtfoto’s als achtergrond
+
+TrescoConnecT (bij internetverbinding):
+
+•	Waterstanden downloaden
+•	BAZ-berichten (Berichten aan Zeevarenden)
+
+Ondersteuning
+
+•	Telefonische support
+•	Online support tijdens kantooruren via TeamViewer
+↳ Vereist: internetverbinding op de navigatie-pc
+
+Updatefrequentie
+
+•	Online updates: ongeveer wekelijks
+
+
+Tresco Online update service
+
+Tresco Navigis controleert in informatie-modus automatisch op software-updates voor o.a. RadarLink. 
+
+Updates kunnen automatisch of manueel worden uitgevoerd.
+
+Automatische updates
+
+1.	Tresco Navigis controleert 1× per dag op beschikbare updates
+↳ Bij een update verschijnt een symbool in de rechteronderhoek van de Navigis-   
+-interface
+
+Manuele updates
+
+Liever zelf controleren? Dat kan via:
+
+•	Help → Controleer op updates
+
+ 
+TTP Touchscreen
+
+De Tresco TrackPilot is volledig softwarematig te bedienen. Wil je nog meer gebruiksgemak? Dan kan je het systeem uitbreiden met het 7" TTP Touchscreen.
+
+Integration is key - dit scherm laat je niet alleen TrackPilot bedienen, maar ook enkele basisfuncties van Tresco Navigis, zoals dag/nachtmodus of zoom.
+
+Track parallel verplaatsen
+
+•	Tik op de enkele pijl om de track 5 meter te verschuiven (SB of BB)
+•	Tik op de dubbele pijl voor 10 meter
+
+Handig bij stroming of om koerslijnen te verfijnen. 
+
+Vaarprofiel kiezen
+
+Tik linksonder op het scherm om een vaarprofiel te selecteren
+
+↳ Kies bijv. opvaart, afvaart, geladen of leeg
+
+Stroming instellen
+
+Tik midden onderaan op het getal bij stroomsnelheid
+
+↳ Geef aan of de stroming mee (afvaart) of tegen (opvaart) zit
+
+In- en uitzoomen
+
+Gebruik het touchscreen om rechtstreeks op de vaarkaart in of uit te zoomen.
+ 
+Dimmen / Schoonmaken
+
+•	Dim de helderheid naar wens
+•	Activeer de schoonmaakfunctie om het touchscreen 20 sec. uit te schakelen – ideaal om vingerafdrukken weg te vegen.
+
+Alarmen
+
+Alle meldingen van TrackPilot verschijnen ook op het TTP Touchscreen, zodat je niets mist – zelfs zonder muis of toetsenbord.
+
+ 
+Alarmen en meldingen
+
+Standby (TrackPilot niet actief)
+
+Too Far			TP kan niet geactiveerd worden -  schip te ver van de track
+Too Slow		TP kan niet geactiveerd worden - schip dat te traag vaart
+Drifting			TP kan niet geactiveerd worden - koers en heading wijken te ver af
+Wrong Direction	TP kan niet geactiveerd worden - koers wijkt te ver af van track richting
+Missing Data		TP kan niet geactiveerd worden - sensor data ontbreekt (bijv. ROT, GPS)
+No Track		TP kan niet geactiveerd worden - nog geen track ingeladen
+Error			TP kan niet geactiveerd worden - gedetecteerde fout (communicatie)
+
+Indicaties (Melding zonder invloed op veiligheid en TrackPilot)
+
+Near End		u nadert het einde van de track (voor bijv. een sluis bij een SmartTrack)
+Large XTE		afwijking t.o.v. track, door manuele actie (bijv. bij track 50m verschuiven)
+Doubtful Sensordata	we vertrouwen bepaalde data van de sensor niet, maar we zien dit niet als een probleem (bijv. onder een brug)
+Inactivity	stuurwachtalarm heeft geen activiteit van schipper geconstateerd
+
+🟠 Waarschuwingen (Controle mogelijk nodig)
+
+Near End		schip bereikt binnen 4 minuten het einde van de track
+Large XTE		grote afwijking t.o.v. track
+Missing Sensordata	een aantal sec. geen data meer ontvangen van een bepaalde sensor 
+(exacte tijd hangt af van de sensor)
+Doubtful Sensordata	we vertrouwen bepaalde data van de sensor niet
+(kalman filter of dead-reckoning wordt gebruikt om verder te sturen)
+Sharp Turn		er komt een scherpe bocht aan
+ROT Not Reached	het schip lijkt de gevraagde bocht niet te halen
+Collision		het voorspelde traject ligt dicht in de buurt van een obstakel
+Inactivity		stuurwachtalarm heeft te lang geen activiteit van schipper vastgesteld
+🔴 Alarmen (Neem controle over!)
+
+Near End		schip bereikt in minder dan 2 minuten het einde van de track
+Missing Sensordata	we hebben van een bepaalde noodzakelijke sensor al te lang geen data meer ontvangen
+			(exacte tijd hangt af van de sensor, bv ontbrekende ROT geeft snel een alarm)
+Too Slow		schip vaart te traag om de TP te blijven gebruiken
+Not Active		autopiloot geeft aan dat we controle hebben terwijl wij niet actief zijn
+(bv. geen track ingeladen)
+AutoPilot Lost		we hebben een aantal seconden geen data meer ontvangen van de autopilot
+
+Voorbeelden van vragen/opmerkingen van klanten met informatie om te antwoorden:
+
+De smarttracks snijden de bochten af. Trackpilot vaart te veel in het midden.
+De SmartTracks zijn een gemiddelde route van alle schepen die met Tresco varen. Je kan de gehele lijn manueel naar bakboord of stuurboord verleggen met de rode en groene knoppen. Problemen met de SmartTracks mogen naar support@tresco.eu gestuurd worden.
+
+
+Hoe krijg ik een Tresco Certificaat? Trackpilot examen. Online cursus Tresco.
+Voor de vrachtvaart is een Trackpilot certificaat is momenteel nog niet verplicht maar we verwachten dat dit verplicht wordt vanaf juni 2026.
+In de tankvaart is een Trackpilot certificaat verplicht voor de OCIMF.
+Als de klant een certificaat nodig heeft van Tresco Navigis of Tresco TrackPilot hebben we een paar gegevens nodig:
+•	Voor welke firma varen ze?
+•	Voor- en achternaam en een persoonlijk e-mail adres voor elke deelnemer.
+Het certificaat voor TrackPilot bieden we gratis aan maar voor het certificaat van Navigis vragen we 175€ per persoon.
+De klant zal een mail krijgen met een link naar een online cursus en examen. Deze is beschikbaar in Nederlands, Frans, Duits en Engels.
+Als je deze gegevens hebt, escaleer dan naar een mens.
+
+
+Intention sharing werkt niet. Voorspelling andere TrackPilot gebruikers. Intentielijnen.
+Om de Tresco intention sharing aan of uit te zetten gaat u bovenaan in de knoppenbalk naar Scherm en klikt u op het icoontje van de grijze bocht.
+U kan enkel intentielijnen zien van schepen die actief met de Tresco TrackPilot varen, die dicht in de buurt komen én die hun intenties delen.
+
+OVERIG:
+
+Tresco heeft verschillende producten.
+Navigis is het programma dat al onze klanten gebruiken om digitale kaarten te lezen. Ze zien op deze kaart normaal gezien hun eigen schip en andere schepen varen.
+Als klanten vragen voor extra kaarten of kaarten te updaten of fouten op de kaart dan gaat dit over Navigis.
+
+Binnen Navigis bieden wij ook extra opties aan tegen een éénmalige betaling:
+De optie ‘2e GPS’ of ‘heading’ zorgt ervoor dat de voorligging (heading) van het schip op de kaart getekend kan worden door het lezen van de HDT data uit het kompas. Dit is ook mogelijk door 2 verschillende GPS systemen aan te sluiten die ver genoeg uit elkaar staan (Meestal 1 bij de stuurhut en 1 vooraan het schip).
+De optie reisplan is een routeplanner die de snelste of kortste weg toont van punt A naar punt B. Dit houdt rekening met de afmetingen van schip.
+Trackpilot is een bijkomende functionaliteit in Navigis die autonoom de piloot van het schip kan aansturen.
+Met de optie ‘dual head’ kan je 2 verschillende sessies van Navigis tegelijk openen.
+De optie reisrapportage en e-melden (BICS) hebben hun eigen handleidingen.
+ 
+Radarlink is een ander venster dan Navigis waar de schipper de radarbeelden kan zien. Het is dus belangrijk dat je weet of de klant het heeft over Radarlink of Navigis want ze hebben elks andere error meldingen en interfaces. In bijna alle gevallen zal het gaan over Navigis. Dus gebruik enkel wat je weet over RadarLink als de klant dit specifiek vermeldt.
+Fleet is een webpagina waar kantoren een overzicht van hun vloot kunnen zien. Hun laatste locatie, de route die ze hebben gevaren, hun snelheid, etc.
+Tresco biedt ook hardware aan:
+Een GPS kompas, AIS en PC. Als de klant hier interesse in toont, escaleer dan naar een collega.
+We bieden natuurlijk ook kaarten aan. Om een kaart te bestellen moet de klant ons even opbellen en dan activeren wij de gevraagde kaartzone op hun licentie. De verschillende  kaartzones kunnen klanten vinden op onze website via https://www.tresco.eu/kaarten/kaartenlijst/ 
+We maken ook expertises van aanvaringen of andere verzekeringskwesties. We maken dan een video van de NMEA data op het moment van de aanvaring, waardoor je exact kan zien wat er op dat moment gebeurde. Hiervoor moeten we even met TeamViewer inloggen aan boord om de data uit het logboek te kopieren. 
+
+Voorbeelden van vragen/opmerkingen van klanten met informatie om te antwoorden:
+
+Als ik tresco opstart krijg ik een pop-up met : demoperiode is voorbij.
+Als we een 'sofware dongle' maken is deze maar tijdelijk bruikbaar, meestal 30 dagen. Deze moet manueel worden verwijderd als de klant de fysieke dongle heeft ontvangen.
+De klant kan dit zelf oplossen door in de C-schijf naar Navichart/S57 te gaan en daar de 'DongleData.bin' file te verwijderen. Als dat niet lukt: laat ze een TeamViewer ID en wachtwoord doorsturen of contacteer ons op +32 (0)32 31 07 31.
+
+Fout op de kaart. Tonnen of boeien verlegd. Brug is verkeerd. Kaart moet aangepast worden.
+Het is erg belangrijk dat duidelijk wordt beschreven waar het is, en wat er fout is.
+Liefst met een screenshot van de fout in bijlage. Oriënteer de kaart naar het noorden in deze screenshot er kan ook best een plaatsnaam te zien zijn en het kompas linksboven.
+
+GPS storing. Schip ligt scheef. Voorligging is fout. Waarom vaar ik schuin? Kompas is kapot. GPS werkt niet. Heading klopt niet.
+Heeft het voordien wel gewerkt? Of is het een nieuwe installatie?
+Bij een nieuwe installatie moet men Tresco contacteren om de instellingen te overlopen.
+De eerste stap is altijd de GPS of het elektronisch kompas te resetten: haal 10-20 seconden de stroom er af. Probeer ook de computer opnieuw op te starten.
+Als er maar een kleine afwijking is van de voorligging kan deze manueel worden aangepast. Ga rechtsboven naar Instellingen > Systeem (wachtwoord = 0000) > NMEA en verander dan de oplijning van het kompas of de tweede positie.
+Werkt het nog steeds niet? Dan pas contact opnemen met Tresco.
+
+Hoe kan ik Covadem activeren? Waarom zie werkt Covadem niet? Waterdiepte werkt niet. De kaart toont geen blauwe diepteverschillen.
+Als de klant nog geen contract heeft bij Covadem moet hij eerst met hen contact opnemen. Daarna geeft Covadem dit aan ons door en kunnen wij het in de licentie aanpassen.
+Als de klant wel al een contract heeft maar de Covadem nog niet werkt in de kaart zijn er meestal 2 mogelijke redenen:
+Ga bovenaan in de knoppenbalk naar het tabje 'Scherm' en zorg ervoor dat 'Bathymetrische datalaag in-/ uitschakelen' aan staat.
+Update ook de kaarten naar de laatste versie bovenaan rechts bij Help > Controleer op updates.
+https://www.youtube.com/watch?v=7vMB9tmwuyI - In deze video wordt getoond hoe je Covadem dieptedata in Tresco Navigis kan gebruiken.
+
+Hoe kan ik de raster- of gridlijnen van de kaart uitschakelen in Tresco? Hoe gridlijnen aanzetten en aanpassen?
+Om gridlijnen te tonen in Tresco Navigis ga je rechtsboven naar Instellingen > Scherm. Hier kan je 'Toon grid' aanvinken om de gridlijnen te activeren.
+
+Hoe kan ik mijn Co2 emissie uit Tresco halen? Hoe Fleet rapporten verkrijgen?
+Log in op je Tresco Fleet account via fleet.tresco.eu met je persoonlijke login.
+Ga linksboven naar 'Admin', en dan rechtsboven naar 'Rapporten'.
+Klik dan op '+Nieuw' om een nieuw rapport aan te maken.
+
+Hoe maak ik de nachtkleuren lichter? Kleuren aanpassen. Dag en nacht. Helderheid. Schemerkleuren.
+Om de helderheid van het scherm aan te passen ga je bovenaan naar de tab 'Kleur' in de knoppenbalk. Hier kan je verschillende dag- en nachtkleuren kiezen. Je kan deze instellingen nog verder aanpassen met de slider.
+https://www.youtube.com/watch?v=BN_7PJJcMeY - Deze video toont een aantal tips voor het vlot gebruiken van Tresco Navigis. Onder andere het aanpassen van dag- en nachtkleuren.
+
+Als Tresco opstart met de zijbalken in donkere nachtkleuren laat je de klant ons nummer bellen of
+het volgende doen: zet Tresco in nachtkleuren, dan terug naar dag kleur. Druk op het toetsenbord op de windows knop + R en typ 'cmd', druk dan op enter.
+Typ dan taskkill /im navichart.exe /f in en druk op enter.
+Als je dan Tresco opnieuw opent moet het probleem opgelost zijn.
+
+Hoe vergroot ik de tekst op de kaart? Symbolen vergroten. Tekstgrootte aanpassen.
+Om Tekst en symbolen te vergoten of verkleinen op de kaart:
+Ga in Tresco Navigis rechtsboven naar Instellingen > Opties > Scherm.
+Hier heb je sliders om de grootte van symbolen en tekst aan te passen.
+Dit is enkel op de kaart en niet in de grijze balken aan de rand van het scherm. Deze worden aangepast in Windows instellingen.
+https://www.youtube.com/watch?v=BN_7PJJcMeY - In deze video worden een aantal tips getoond voor het vlotte gebruik van Tresco Navigis, waaronder het vergroten/verkleinen van tekst en symbolen op de kaart.
+
+Kan het beeld niet meer schuiven. Hoe kaart verplaatsen?
+Als men de kaart wil verschuiven ga je bovenaan in de knoppenbalk naar 'Scherm'. Daar klik je op 'Zoom in', 'Zoom uit' of 'Ga naar ...', daarna kan de kaart opnieuw verschoven worden met de muis.
+Om het schip te centreren in de kaart druk je bovenaan links op 'Monitor'.
+https://www.youtube.com/watch?v=BN_7PJJcMeY - In deze video worden een aantal Tresco Navigis functionaliteiten uitgelegd zoals bijvoorbeeld de kaart verschuiven.
+
+Muis verspringt vanzelf. Muis gaat alle kanten op. Kan muis niet gebruiken.
+Als de muis zelf verspringt en niet meer bruikbaar is:
+Haal de kabel van de GPS tijdelijk uit de computer, hierdoor zou de muis terug normaal moeten reageren.
+Ga nu in Tresco Navigis rechtsboven naar Help > Support en druk op 'Ja' of 'Nee'.
+Ga in het nieuwe venster naar Tools > Disable mouse detection... en klik in het nieuwe venster op 'Disable serial mouse'. U kan nu de GPS opnieuw aansluiten.
+
+Negatieve snelheid bij achteruit varen. Hoe zet ik een - teken voor mijn snelheid?
+Ga naar Instellingen > Systeem > NMEA (het wachtwoord is 0000)
+Hier kan je de optie 'Negatief bij achteruit varen' aanvinken.
+
+PC probleem. PC start niet op. Blauw scherm. De PC is kapot. Scherm werkt niet. De PC vindt geen wifi.
+Check of alle kabels goed zijn aangesloten. Probeer eventueel een andere poort.
+Start de computer opnieuw op.
+Werkt het nog steeds niet: Heeft de klant de PC bij tresco gekocht? Dan contact opnemen met Tresco.
+
+Tresco PC start niet meer op en geeft melding: No option to boot to.
+Om specifiek de foutmelding 'No option to boot to.' op te lossen stuur je altijd eerst deze link: https://youtu.be/-0skqzI4PoM het is een video handleiding.
+En geef VOLLEDIG deze uitleg:
+No Option to Boot (NL) :
+1. Open de zwarte behuizing
+o Schroef de twee zilverkleurige schroeven aan de achterkant los.
+o Schuif de zwarte kap naar achteren om de PC te openen.
+2. Verwijder de SATA-harde schijf
+o Schroef de SATA-harde schijf los: twee kleine schroeven aan de bovenkant
+aan de zijkant.
+3. Zoek de SATA-kabel
+o Je ziet een platte rode kabel van de losgemaakte SATA-schijf naar een blauwe
+connector op het moederbord.
+4. Sluit de SATA-kabel opnieuw aan
+o Ontkoppel de SATA-kabel van de huidige blauwe connector.
+o Steek hem in een andere vrije blauwe connector op het moederbord, naast de
+oorspronkelijke.
+5. Test het systeem
+o Sluit een monitor aan.
+o Zet de PC aan door op de AAN-knop aan de voorkant te drukken.
+o Controleer of de PC opstart.
+6. Monteer alles terug
+o Als de PC opstart, monteer dan de SATA-schijf en de zwarte kap opnieuw
+
+Voor een expertiseverslag voor de verzekeringen na een aanvaring moeten we eerst met TeamViewer inloggen aan boord. 
+We kopieren dan de NMEA-logs van die dag uit het logboek en maken daar een video van.
+De klant kan ook zelf beelden opnieuw bekijken. Klik linksboven op 'logboek', dan 'NMEA Playback', klik op de blauwe play knop en 
+selecteer dan de dag die je opnieuw wil bekijken. 
+Het logboek wordt standaard 60 dagen bewaard. Je kan dit zelf aanpassen bij 'Instellingen', 'Logboek' en dan bij 'NMEA-logboek' 'Verwijder logboeken ouder dan'.
+
+
+
+
