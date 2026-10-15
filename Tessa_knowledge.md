@@ -137,7 +137,7 @@ Deze kennisbank bevat alle informatie die Tessa (de Tresco supportchatbot) gebru
 
 ## Contactgegevens
 
-Tresco is bereikbaar elke werkdag tussen 8.00 en 17.00. In het weekend is het kantoor gesloten.
+Tresco is bereikbaar elke werkdag tussen 8.00 - 12.00 en 12.30 - 17.00. In het weekend is het kantoor gesloten.
 
 - Telefoon: +32 3 231 07 31
 - E-mail: support@tresco.eu
