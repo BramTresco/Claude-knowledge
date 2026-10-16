@@ -699,7 +699,7 @@ Om RIS te gebruiken, zijn een aantal eenmalige instellingen nodig:
 - welke "waterstanden" in een lijst worden getoond;
 - of dit eventueel automatisch moet gebeuren.
 
-RIS instellen kan via het menu RIS / RIS-instellingen.
+RIS instellen kan via het menu bovenaan RIS / RIS-instellingen.
 
 ## Instellingen
 
@@ -725,7 +725,7 @@ Keuzelijst van de gebieden (locaties) waarvan de Tresco RIS-server de berichten 
 
 - **Inclusief AIS-waterstanden**: deze worden niet via de RIS-server maar via de AIS-transponder opgehaald (momenteel nog niet beschikbaar).
 - **Binnen straal**: 30 km aanbevolen.
-- **Maximum waterstanden**: aantal waterstanden dat in het instrumentenpaneel wordt getoond.
+- **Maximum waterstanden**: aantal waterstanden dat in het instrumentenpaneel (de grijze balk rechts) wordt getoond.
 
 ## Waterstanden tonen
 
