@@ -23,7 +23,7 @@ Deze kennisbank bevat alle informatie die Tessa (de Tresco supportchatbot) gebru
 
 # Prijzen
 
-*Prijslijst — datum: 20/03/2026. Let op: de AIS-optie is verplicht op systemen aan boord (niet op kantoor).*
+*Prijslijst — datum: 16/10/2026. Let op: de AIS-optie is verplicht op systemen aan boord (niet op kantoor).*
 
 ## Navigis Viewer
 
