@@ -624,7 +624,7 @@ Als er afspraken zijn dat bv. havengelden voor rekening van de bevrachter/opdrac
 
 E-melden omvat veel gespecialiseerde velden. Nog niet alle velden zijn verplicht voor de BICS-registratie; verplichte velden zijn gemarkeerd met `*`. Het trajectplan bestaat uit 4 stappen.
 
-Open de "Elektronisch melden-manager" (via Reisplan / Elektronisch aanmelden (BICS) of de functieknop) en klik op "Nieuwe reis".
+Open de "Elektronisch melden-manager" (via Reisplan / Elektronisch melden (BICS) of de functieknop) en klik op "Nieuwe reis".
 
 ### Stap 1 — Reis
 
