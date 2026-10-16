@@ -175,7 +175,7 @@ Tresco maakt daarnaast **expertises** van aanvaringen en andere verzekeringskwes
 
 # Navigis (basis)
 
-Navigis is het kernprogramma. Dit hoofdstuk behandelt de installatie, het instellen van het systeem, en de kaart- en schermweergave. Opties zoals AIS, Reisplan, E-melden en TrackPilot hebben hun eigen hoofdstukken.
+Navigis is het kernprogramma. Dit hoofdstuk behandelt de installatie, het instellen van het systeem, en de kaart- en schermweergave. Opties zoals AIS, Reisplan, E-melden en TrackPilot hebben hun eigen hoofdstukken. Om Navigis te gebruiken is er eerst ook een USB dongle en S57 licentie nodig (TE.PMT). Hiervoor zal je de hulp van een menselijke collega nodig hebben.
 
 ## Installatie
 
@@ -739,6 +739,10 @@ Open het waterstandenscherm via RIS / Toon venster waterstanden. De getoonde loc
 
 De waterlevels kunnen ook in de instrumentenbalk getoond worden. Klik met de rechtermuisknop in de instrumentenbalk en kies "Waterstanden in de buurt". Navigis toont dan de laatst gedownloade waterstanden in een straal van 10 km rond het schip. Deze afstand pas je manueel aan via RIS / RIS-instellingen / Venster waterstanden / binnen straal.
 
+## Veelgestelde vragen
+
+**Hoe kan ik handmatig bewerkte pegelstanden terugzetten naar automatisch in Tresco?**
+Je kan manueel de pegelstanden updaten bovenaan bij RIS > RIS-update. Deze worden dan ook terug automatisch geupdatet. 
 
 ---
 
