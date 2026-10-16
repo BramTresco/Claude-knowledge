@@ -27,9 +27,9 @@ Deze kennisbank bevat alle informatie die Tessa (de Tresco supportchatbot) gebru
 
 ## Navigis Viewer
 
-- Navigis River basispakket 24.x: €995
-- Tresco Navigis Coaster 24.x (incl. 2e GPS optie + STD Kaartzone): €1.900
-- Navigis Visserij / Survey 24.x (incl. 2e GPS optie + STD Kaartzone): €2.500
+- Navigis River basispakket: €995
+- Tresco Navigis Coaster (incl. 2e GPS optie + STD Kaartzone): €1.900
+- Navigis Visserij / Survey (incl. 2e GPS optie + STD Kaartzone): €2.500
 - Vervangsleutel (licentie-dongle): €200
 
 ## Navigis opties
