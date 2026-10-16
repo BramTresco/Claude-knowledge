@@ -137,7 +137,7 @@ Deze kennisbank bevat alle informatie die Tessa (de Tresco supportchatbot) gebru
 
 ## Contactgegevens
 
-Tresco is bereikbaar elke werkdag tussen 8.00 - 12.00 en 12.30 - 17.00. In het weekend is het kantoor gesloten.
+Tresco is bereikbaar elke werkdag tussen 8.00 - 12.00 en 12.30 - 17.00. In het weekend is het kantoor gesloten. Er is geen noodnummer of storingslijn buiten de uren, enkel jij kan de klant helpen.
 
 - Telefoon: +32 3 231 07 31
 - E-mail: support@tresco.eu
@@ -196,6 +196,9 @@ Tresco Navigis is beveiligd met een USB-dongle (Sentinel). **Let op: plaats de U
 14. Plaats nu de USB-dongle op de navigatie-pc.
 15. Dubbelklik op de snelkoppeling op het bureaublad om Navigis te starten. Een scherm met "Systeeminstellingen" verschijnt; klik op "OK" en Navigis start op.
 
+Navigis kan ook gedownload worden via volgende link: dl.tresco.eu/master
+Gebruikersnaam is master, wachtwoord wijzigt wekelijks, hiervoor is een menselijke collega nodig.
+
 ### USB / serial-convertor (indien nodig)
 
 Heeft de computer geen seriële poort (COM), dan kan een USB/serieel-convertor geïnstalleerd worden. Is deze door Tresco geleverd, volg dan dit schema:
@@ -217,6 +220,9 @@ Sluit eerst de devices aan op de computer: GPS-antenne, AIS, dieptemeter, windme
 6. Er verschijnt een "configuration overview"; klik op "instellingen accepteren".
 7. Navigis start automatisch op. Zijn alle devices goed gedetecteerd, dan wordt er een kaart getoond.
 
+Als de voorligging van het schip (constant) afwijkt van de werkelijkheid kan men dit ook manueel corrigeren in de systeeminstellingen. In het tabje NMEA kan je de oplijning van het kompas of tweede positie aanpassen.
+Als de afwijking variabel is kunnen we dit niet in instellingen oplossen. De hardware moet dan worden nagekeken.
+
 ### Scheepsinstellingen
 
 1. Ga naar Instellingen / Schip.
@@ -227,6 +233,11 @@ Sluit eerst de devices aan op de computer: GPS-antenne, AIS, dieptemeter, windme
 ## Kaart- en schermweergave
 
 Veelgebruikte weergave-instellingen voor de kaart en het scherm. Deze staan grotendeels onder Instellingen > Opties > Scherm.
+De balk rechts in het scherm met bijvoorbeeld snelheid, docking, brughoogtes, waterstanden, etc. Kan worden aangepast door rechtermuisknop op de balk. Voor docking moet er een kompas aan boord zijn met ROT data.
+
+## Dual head instellen
+
+Als de Dual head optie geactiveerd is kan men een 2 Navigis sessies tegelijk openen. Eerst maak je een 2e snelkoppeling op het bureaublad, daarin ga je naar eigenschappen, en dan onder 'Snelkoppeling' pas je 'Doel' aan naar C:\NaviChart\NaviChart.exe /secondinstance , druk dan op 'OK'.
 
 ## Veelgestelde vragen
 
@@ -260,6 +271,9 @@ De eerste stap is altijd de GPS of het elektronisch kompas te resetten: haal 10-
 Is er maar een kleine afwijking in de voorligging, dan kan deze manueel worden aangepast: ga rechtsboven naar Instellingen > Systeem (wachtwoord = 0000) > NMEA en verander de oplijning van het kompas of de tweede positie.
 Werkt het nog steeds niet, neem dan pas contact op met Tresco.
 
+**Schip draait rond op de kaart bij stilliggen.**
+Dit betekent dat we geen voorligging (HDT) data uit het kompas, of geen positie van de 2e GPS ontvangen. Probeer het elektronisch kompas of GPS te resetten: haal 10-20 seconden de stroom eraf.
+
 **PC-probleem. / PC start niet op, blauw scherm, de pc is kapot, scherm werkt niet, pc vindt geen wifi.**
 Check of alle kabels goed zijn aangesloten en probeer eventueel een andere poort. Start de computer opnieuw op. Werkt het nog steeds niet: heeft de klant de pc bij Tresco gekocht? Dan contact opnemen met Tresco.
 
@@ -276,6 +290,9 @@ En geef VOLLEDIG deze uitleg:
 **Als ik Tresco opstart krijg ik een pop-up: "demoperiode is voorbij".**
 Als we een 'software dongle' maken, is deze maar tijdelijk bruikbaar (meestal 30 dagen). Deze moet manueel verwijderd worden als de klant de fysieke dongle heeft ontvangen. De klant kan dit zelf oplossen: ga in de C-schijf naar NaviChart/S57 en verwijder daar het bestand 'DongleData.bin'. Lukt dat niet, laat ze dan een TeamViewer-ID en wachtwoord doorsturen, of contacteer ons op +32 (0)3 231 07 31.
 
+**Dieptepunten en dieptelijnen tonen/verbergen.**
+Zet deze aan of uit linksboven bij 'Kaart' en dan 'Details…'. Hier kies je alle kaartelementen die je wil tonen. Zorg ook dat de kaartmodus op 'Usr' staat.
+
 ---
 
 # AIS
@@ -291,9 +308,7 @@ Via de optie AIS kan je een AIS-toestel aansluiten op je Tresco Navigis-systeem.
 - **AIS Receiver**: enkel ontvangen van andere AIS-targets.
 - **AIS Transponder**: ontvangen van andere AIS-targets én verzenden van eigen data. Verplicht in de binnenvaart vanaf 1 januari 2012, en vanaf 1 maart 2011 in de haven van Antwerpen.
 
-De AIS-transponder is inmiddels verplicht in de binnenvaart. In Oostenrijk is het al mogelijk om ook de waterstanden automatisch via de AIS-transponder te ontvangen; het is de bedoeling dat Duitsland en Nederland deze gratis dienst ook gaan aanbieden.
-
-De AIS-optie kan telefonisch worden geactiveerd en werkt met alle courante Inland ECDIS AIS-transponders. Vanuit Tresco kan je via "AIS reisinstellingen…" meteen de AIS-transponder instellen (bestemming, lading, enz.).
+Vanuit Tresco kan je via "AIS reisinstellingen…" meteen de AIS-transponder instellen (bestemming, lading, status, enz.). Dit is enkel mogelijk wanneer de AIS correct bi directioneel is aangesloten!
 
 ## Instellingen & transponder
 
@@ -355,6 +370,9 @@ De status verandert automatisch van "aangelegd" naar "op weg op de motor" zodra 
 ## AIS-weergave op de kaart
 
 Een AIS-target op de kaart bestaat uit twee delen: een **symbool** (dat het schip weergeeft) en een **label** (met info zoals blauwbordstatus, naam, ENI-nr, koers, snelheid, afmetingen, diepgang).
+Als de klant geen symbool ziet, dan zijn ofwel de NMEA instellingen niet goed gedaan, of de AIS stuurt geen data door. De klant kan eerst checken of er wel schepen worden getoond op de display van de AIS zelf. Zo niet, dan ligt daar het probleem. Probeer de AIS te resetten door de stroom er 10-20 seconden af te halen. De NMEA instellingen kan men controleren via een auto detect in de systeeminstellingen.
+Als er wel een symbool maar geen label zichtbaar is, dan is misschien het knopje 'Toon/verberg target labels' aangeklikt. Dit staat onderaan link in de grijze AIS-balk.
+Met het knopje daar naast: 'tekst filter aan/uit', kan men stilliggende schepen filteren.
 
 ### AIS-symbolen
 
@@ -561,8 +579,8 @@ Berichten op de route worden met kleuren gemarkeerd:
 **Tresco start heel traag op. / Reisplan aanmaken duurt lang, Tresco loopt vast bij aanmaken reisplan of doorsturen BICS.**
 De klant kan naar Windows-instellingen gaan, dan naar 'Printers en scanners'. Zet de optie 'Mijn standaardprinter door Windows laten beheren' uit. Klik dan op 'Microsoft Print to PDF' en stel deze in als standaard. Is het probleem daarmee niet opgelost, dan ligt het waarschijnlijk aan een trage/verouderde pc.
 
-**Dieptepunten en dieptelijnen tonen/verbergen.**
-Zet deze aan of uit linksboven bij 'Kaart' en dan 'Details…'. Hier kies je alle kaartelementen die je wil tonen. Zorg ook dat de kaartmodus op 'Usr' staat.
+**Ik krijg de foutmelding 'deze wijzigingen kunnen niet worden nagekeken' bij het invoeren van een reis.**
+Dit wil zeggen dat we de AIS-transponder niet kunnen updaten vanuit Navigis. De transponder moet correct bi directioneel zijn aangesloten.
 
 ---
 
@@ -774,6 +792,10 @@ Navigis gaf vroeger een melding na een willekeurige tijd tussen 10 en 20 minuten
 
 Nadert het schip het einde van de actieve track, dan krijg je een geluidsalarm en verschijnt bovenaan een duidelijke melding met uitleg.
 
+### Collision detection
+
+De werking en instellingen van collision detection vind je in het TrackPilot venster onder 'Configuratie wijzigen' > 'Collision detection'. Daar kan je dit alarm ook eventueel uitzetten.
+
 ## TTP Touchscreen
 
 De TrackPilot is volledig softwarematig te bedienen. Voor meer gebruiksgemak kan je het systeem uitbreiden met het 7" TTP Touchscreen, dat ook enkele basisfuncties van Navigis bedient (zoals dag/nachtmodus of zoom).
@@ -928,6 +950,8 @@ Om de S57-data (van IC-ENC – Primar Stavanger of AVCS) te gebruiken, moet je e
 
 Covadem toont actuele waterdiepte-data (dieptekaarten) in Navigis. Als het volledige vaarwater plots blauw toont (ondiep) zijn er een paar mogelijke verklaringen: De klant heeft al 5 of meer dagen geen online update uitgevoerd en de data is verouderd, er is geen data beschikbaar, of de safety contour rechts onderaan staat verkeerd ingesteld. 
 De verschillende blauwtinten zijn moeilijk zichtbaar in de donkere nachtmodus. Dit is een gekend probleem waar actief een oplossing voor gezocht wordt.
+De kleuren kunnen niet aangepast worden.
+Het abonnement loopt niet via ons, daarvoor moet de klant contact opnemen met Autena. Dat kan via volgend nummer: +31 24 355 94 17
 
 ## Veelgestelde vragen
 
