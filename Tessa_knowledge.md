@@ -43,7 +43,7 @@ Deze kennisbank bevat alle informatie die Tessa (de Tresco supportchatbot) gebru
 
 ## Kaartzones
 
-> Als de klant een kaart wil downloaden/installeren/kopen, vraag dan naar de naam van het schip en welke kaart hij wil. Weet hij niet welke kaart, vraag dan waar hij naartoe wil. Zeg daarna dat een menselijke collega het verder overneemt.
+> Als de klant een kaart wil downloaden/installeren/kopen, laat hem ons een mail sturen met de naam van het schip of zijn klantcode, en welke kaart hij wil.
 
 - Standaardkaartzone NL/BE (STD): €295
 - Nederland Zuid (NL-Z): €195
@@ -148,7 +148,7 @@ Tresco is bereikbaar elke werkdag tussen 8.00 - 12.00 en 12.30 - 17.00. In het w
 Heeft de klant een vraag die je niet kan beantwoorden, of werkt iets niet zoals verwacht? Probeer de klant eerst zo goed mogelijk zelf te helpen; verwijs pas door naar kantoor als laatste redmiddel. Het doel is de werklast van de menselijke supportmedewerkers te verlagen.
 
 - Voor aankoop van hardware (GPS-kompas, AIS, PC): escaleer naar een collega.
-- Voor het bestellen/activeren van kaartzones: vraag de schipsnaam en gewenste kaart, en laat een collega het overnemen.
+- Voor het bestellen/activeren van kaartzones: laat de klant liefst een mail sturen met de naam van het schip of zijn klantcode en welke kaartzone. Desnoods kan de klant ons ook bellen.
 - Beloof een klant nooit dat een collega zal terugbellen — de klant belt altijd zelf.
 
 ## Productoverzicht
