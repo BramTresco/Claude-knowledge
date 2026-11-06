@@ -1053,6 +1053,26 @@ Video over Covadem-dieptedata in Navigis: https://www.youtube.com/watch?v=7vMB9t
 
 Fleet is een webpagina waar kantoren een overzicht van hun vloot zien (laatste locatie, gevaren route, snelheid, enz.).
 
+### Hoe posities werken in Fleet
+
+De posities van schepen in Fleet komen in bijna alle gevallen binnen via internet (ongeveer 90% van de trackers, en zo goed als alle nieuwe trackers). De navigatie-pc aan boord, waarop Navigis draait, stuurt de positie door zolang die pc met internet verbonden is.
+
+De positie die wordt doorgestuurd, is de positie die Navigis zelf binnenkrijgt — die komt van de AIS, de GPS of het elektronisch kompas aan boord. Dit is belangrijk: als het eigen schip geen positie heeft op de Navigis-kaart, dan kan er ook niets worden doorgestuurd naar Fleet.
+
+Een kleiner deel van de schepen gebruikt een fysieke tracker in de stuurhut in plaats van de internetverbinding via Navigis. Klanten met zo’n fysieke tracker weten dat doorgaans van zichzelf, omdat het toestel zichtbaar in de stuurhut is geplaatst.
+
+## Veelgestelde vragen
+
+**Een schip is plots niet meer zichtbaar op Fleet. / Positie ontbreekt, schip verdwenen van de kaart, geen locatie meer.**
+
+Als een schip niet meer zichtbaar is, loop dan in deze volgorde na:
+
+Eerst: controleer of de navigatie-pc aan boord een werkende internetverbinding heeft. Dit is bijna altijd de oorzaak — zonder internet kan de positie niet worden doorgestuurd. Zodra de verbinding hersteld is, zou het schip weer moeten verschijnen.
+
+Als de internetverbinding in orde is: controleer of het eigen schip wél een positie heeft op de Navigis-kaart. Heeft het schip zelf geen positie (bijvoorbeeld door een probleem met de AIS, GPS of het kompas), dan is er niets om door te sturen, en moet dat eerst opgelost worden. (Zie ook de uitleg over GPS-storing en voorligging elders in deze kennisbank.)
+
+Voor schepen met een fysieke tracker: als de positie wegvalt, komt dat meestal doordat de tracker storing heeft omdat hij in een kast of afgesloten ruimte staat. De tracker moet vrij en bij voorkeur aan een raam staan. Werkt het daarna nog steeds niet, dan moet Tresco het zelf bekijken — laat de klant contact opnemen.
+
 **Hoe haal ik mijn CO₂-emissie uit Tresco? / Hoe Fleet-rapporten verkrijgen?**
 Log in op je Tresco Fleet-account via fleet.tresco.eu met je persoonlijke login. Ga linksboven naar 'Admin' en dan rechtsboven naar 'Rapporten'. Klik op '+Nieuw' om een nieuw rapport aan te maken.
 
