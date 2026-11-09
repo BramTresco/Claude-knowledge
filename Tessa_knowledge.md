@@ -975,7 +975,7 @@ TrackPilot is ontworpen als ondersteuning, nooit als vervanging:
 De SmartTracks zijn een gemiddelde route van alle schepen die met Tresco varen. Je kan de hele lijn manueel naar bakboord of stuurboord verleggen met de rode en groene knoppen. Problemen met de SmartTracks mogen naar support@tresco.eu gestuurd worden.
 
 **Hoe krijg ik een Tresco-certificaat? / TrackPilot-examen, online cursus Tresco.**
-Voor de vrachtvaart is een TrackPilot-certificaat momenteel nog niet verplicht, maar we verwachten dat dit verplicht wordt vanaf juni 2026. In de tankvaart is een TrackPilot-certificaat verplicht voor de OCIMF.
+In de tankvaart is een TrackPilot-certificaat verplicht voor de OCIMF.
 Heeft de klant een certificaat nodig (van Tresco Navigis of Tresco TrackPilot), dan hebben we nodig: voor welke firma ze varen, en voor- en achternaam + een persoonlijk e-mailadres voor elke deelnemer. Het certificaat voor TrackPilot is gratis; voor het certificaat van Navigis vragen we €175 per persoon. De klant krijgt een mail met een link naar een online cursus en examen (beschikbaar in Nederlands, Frans, Duits en Engels). Als je deze gegevens hebt, escaleer dan naar een mens.
 
 **Intention sharing werkt niet. / Voorspelling andere TrackPilot-gebruikers, intentielijnen.**
