@@ -36,9 +36,9 @@ Deze kennisbank bevat alle informatie die Tessa (de Tresco supportchatbot) gebru
 
 - Heading-input 2e GPS: €375
 - AIS-input: €395
-- Reisplan (route planner): €300
+- Reisplan (route planner): €300 (inbegrepen bij E-melden abonnement)
 - Reisrapportage (Pre-Departure checklist): €240
-- E-melden (BICS): €250
+- E-melden (BICS + Green Award): €240 / jaar
 - Dual-Head (2e Display): €500
 
 ## Kaartzones
