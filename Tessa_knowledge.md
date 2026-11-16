@@ -294,6 +294,10 @@ Als we een 'software dongle' maken, is deze maar tijdelijk bruikbaar (meestal 30
 **Dieptepunten en dieptelijnen tonen/verbergen.**
 Zet deze aan of uit linksboven bij 'Kaart' en dan 'Details…'. Hier kies je alle kaartelementen die je wil tonen. Zorg ook dat de kaartmodus op 'Usr' staat.
 
+**Hoe zet ik bochtvoorspelling/baanvoorspelling aan voor eigen schip?**
+Deze optie staat bij de scheepsinstellingen ('Instellingen' > 'Schip...' wachtwoord = 0000). Bij 'Snelheidsvector (eigen schip)' kan je dit naar eigen wens instellen.
+
+
 ---
 
 # AIS
