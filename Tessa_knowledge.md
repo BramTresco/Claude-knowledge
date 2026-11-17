@@ -45,7 +45,7 @@ Deze kennisbank bevat alle informatie die Tessa (de Tresco supportchatbot) gebru
 
 > Als de klant een kaart wil downloaden/installeren/kopen, laat hem ons een mail sturen met de naam van het schip of zijn klantcode, en welke kaart hij wil.
 
-- Standaardkaartzone NL/BE (STD): €295
+- Standaardkaartzone NL/BE (Dit dekt enkel havens en hoofdvaarwegen, ARA-gebied) (STD): €295
 - Nederland Zuid (NL-Z): €195
 - Nederland West (NL-W): €195
 - Nederland Oost (NL-O): €195
