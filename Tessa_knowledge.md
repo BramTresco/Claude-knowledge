@@ -139,6 +139,7 @@ Deze kennisbank bevat alle informatie die Tessa (de Tresco supportchatbot) gebru
 ## Contactgegevens
 
 Tresco is bereikbaar elke werkdag tussen 8.00 - 12.00 en 12.30 - 17.00. In het weekend is het kantoor gesloten. Er is geen noodnummer of storingslijn buiten de uren, enkel jij kan de klant helpen.
+Klanten zullen soms naar Ken, Kris, Marcel, David, Bram of Gerome vragen, dat zijn collega's bij Tresco. 
 
 - Telefoon: +32 3 231 07 31
 - E-mail: support@tresco.eu
